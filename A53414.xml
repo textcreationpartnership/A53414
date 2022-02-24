@@ -1,0 +1,1023 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An exact and faithful narrative of the horrid conspiracy of Thomas Knox, William Osborne, and John Lane, to invalidate the testimonies of Dr. Titus Oates, and Mr. William Bedlow by charging them with a malicious contrivance against the E. of Danby, and the said Dr. Oates with an attempt of sodomy wherein are exemplified from the originals I. Four forged letters dictated by Thomas Knox, II. Five false informations, one paper of memorials, and one other information against Dr. Oates for sodomy, forged by Knox in the names of Lane and Osborne, III. The informations, depositions, examinations, and confessions of the said Knox, Osborne, and Lane, taken upon oath before Sir William Waller and Edmund Warcup, Esq., IV. An account of some depositions taken before the Lords Committees of Secresie, relating thereunto, V. The breviates of the councel for the King at the trials of the said Knox and Lane, Nov. 25, 1679, wherein full satisfaction is given to the world of the whole cause, by the particular evidences of the witnesses in behalf of the King / published by the appointment of me, Titus Oates.</title>
+            <author>Oates, Titus, 1649-1705.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1680</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 140 KB of XML-encoded text transcribed from 19 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A53414</idno>
+            <idno type="STC">Wing O41</idno>
+            <idno type="STC">ESTC R4560</idno>
+            <idno type="EEBO-CITATION">13081192</idno>
+            <idno type="OCLC">ocm 13081192</idno>
+            <idno type="VID">97234</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A53414)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 97234)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 747:7)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An exact and faithful narrative of the horrid conspiracy of Thomas Knox, William Osborne, and John Lane, to invalidate the testimonies of Dr. Titus Oates, and Mr. William Bedlow by charging them with a malicious contrivance against the E. of Danby, and the said Dr. Oates with an attempt of sodomy wherein are exemplified from the originals I. Four forged letters dictated by Thomas Knox, II. Five false informations, one paper of memorials, and one other information against Dr. Oates for sodomy, forged by Knox in the names of Lane and Osborne, III. The informations, depositions, examinations, and confessions of the said Knox, Osborne, and Lane, taken upon oath before Sir William Waller and Edmund Warcup, Esq., IV. An account of some depositions taken before the Lords Committees of Secresie, relating thereunto, V. The breviates of the councel for the King at the trials of the said Knox and Lane, Nov. 25, 1679, wherein full satisfaction is given to the world of the whole cause, by the particular evidences of the witnesses in behalf of the King / published by the appointment of me, Titus Oates.</title>
+                  <author>Oates, Titus, 1649-1705.</author>
+               </titleStmt>
+               <extent>[7], 36 [i.e. 28] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Tho. Parkhurst, Tho. Cockerill and Benj. Alsop ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1680.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>First edition?</note>
+                  <note>Reproduction of original in Duke University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bedloe, William, 1650-1680.</term>
+               <term>Knox, Thomas, 17th cent.</term>
+               <term>Lane, John, 17th cent.</term>
+               <term>Osborne, William, 17th cent.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-07</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-12</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2010-12</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:97234:1"/>
+            <pb facs="tcp:97234:1" rendition="simple:additions"/>
+            <p>An Exact and Faithful NARRATIVE OF THE Horrid Conſpiracy OF <hi>Thomas Knox, William Osborne,</hi> and <hi>John Lane,</hi> To INVALIDATE the TESTIMONIES OF Dr. <hi>Titus Oates,</hi> and Mr. <hi>William Bedlow;</hi> By Charging them with a Malicious Contrivance againſt the E. of <hi>Danby,</hi> and the ſaid Dr. <hi>OATES</hi> with an Attempt of <hi>SODOMY.</hi>
+            </p>
+            <p>Wherein are Exemplified from the <hi>Originals,</hi>
+            </p>
+            <list>
+               <item>I. Four Forged Letters dictated by <hi>Thomas Knox.</hi>
+               </item>
+               <item>II. Five Falſe <hi>Informations,</hi> One Paper of <hi>Memorials,</hi> and one other <hi>Information</hi> againſt Dr. <hi>OATES</hi> for <hi>Sodomy,</hi> forged by <hi>Knox</hi> in the Names of <hi>Lane</hi> and <hi>Osborne.</hi>
+               </item>
+               <item>III. The <hi>Informations, Depoſitions, Examinations,</hi> and <hi>Confeſſions</hi> of the ſaid <hi>Knox, Osborne,</hi> and <hi>Lane,</hi> taken upon Oath before Sir <hi>William Waller</hi> and <hi>Edmond Warcup,</hi> 
+                  <abbr>Esq</abbr>.</item>
+               <item>IV. An Account of ſome <hi>Depoſitions</hi> taken before the <hi>Lords Com<g ref="char:EOLhyphen"/>mittees</hi> of <hi>Secreſie,</hi> relating thereunto.</item>
+               <item>V. The <hi>Breviates</hi> of the Councel for the KING at the Trials of the ſaid <hi>Knox</hi> and <hi>Lane,</hi> Nov. 25. 1679. wherein full ſatiſ<g ref="char:EOLhyphen"/>faction is given to the World of <hi>the whole Cauſe,</hi> by the parti<g ref="char:EOLhyphen"/>cular Evidences of the Witneſſes in behalf of the KING.</item>
+            </list>
+            <p>Publiſhed by the Appointment of me <hi>TITUS OATES.</hi>
+            </p>
+            <p>
+               <hi>LONDON:</hi> Printed for <hi>Tho. Parkhurſt, Tho. Cockerill</hi> and <hi>Benj. Alſop,</hi> at the <hi>Bible</hi> and <hi>Three Crowns</hi> at the lower end of <hi>Cheapſide,</hi> at the <hi>Three Legs,</hi> and at the <hi>Angel</hi> and <hi>Bible</hi> in the <hi>Poultrey,</hi> 1680.</p>
+         </div>
+         <div type="imprimatur">
+            <pb facs="tcp:97234:2"/>
+            <p>
+               <hi>I</hi> Do Appoint <hi>Thomas Parkhurſt, Thomas Cockerill,</hi> and <hi>Benjamin Alſop,</hi> to Print this Narrative, and that no other Print the ſame.</p>
+            <closer>
+               <signed>TITUS OATES.</signed>
+               <dateline>
+                  <date>Decemb. 2. 1679.</date>
+               </dateline>
+            </closer>
+            <pb facs="tcp:97234:2"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:97234:3"/>
+            <pb facs="tcp:97234:3"/>
+            <head>TO HIS Sacred Majeſty CHARLES, II: BY THE GRACE of GOD OF Great Britain, France and Ireland, KING, Defender of the Faith.</head>
+            <opener>
+               <salute>Great Sr.</salute>
+            </opener>
+            <p>THe higheſt Ambition this Addreſs dares pretend to, is to Congratulate your Majeſties happy Succeſs in <hi>the late famous Cauſe</hi> obtained againſt the Enemies of your <hi>Perſon, Crown and Dignity;</hi> in which Tri<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>l you have won the Field, and carried the day not by the <hi>Juſtice of the Sword,</hi> but by the <hi>Sword of Juſtice:</hi> And if the old <hi>Roman Conſuls</hi> rejoyced in theſe <hi>Triumphs</hi> decreed to their fortunate Valour by the <hi>Senate;</hi> wherein <hi>the Succeſs</hi> was commonly better than <hi>the Cauſe,</hi> your <hi>Majeſty</hi> must needs much more Rejoice to have come off <hi>Victor</hi> by <hi>the Law,</hi> where you have not the Ad<g ref="char:EOLhyphen"/>vantage of the <hi>longer Sword,</hi> but fight your Enemies with <hi>equal Weapons:</hi> where 'tis the Glory of your <hi>Courts of Judicature,</hi> that they are <hi>Eagle-eyed</hi> to diſcern the merits of the Cauſe, but <hi>blind in the favour, and reſpect of Perſons.</hi>
+            </p>
+            <p>Nor will you wonder (dear Sir) that I have Entituled your Name to what may ſeem my <hi>perſonal and private Concern,</hi> ſince without Vanity I can avow it, they that ſtruck at my <hi>Credit,</hi> deſigned the Blow at <hi>your Sacred Life;</hi> and to <hi>Murder the Repute</hi> of your Majeſties Evidence againſt the <hi>Traytors,</hi> was indeed but a handſom expedient to atchieve a more horrid <hi>Aſſaſſination.</hi>
+            </p>
+            <p>I have therefore fair Hopes your <hi>Majeſty</hi> will graciouſly <hi>Accept this Dedica<g ref="char:EOLhyphen"/>tion,</hi> and give it the Protection of your <hi>Royal Purple,</hi> which will convince the obſtinate Unbelief of your Enemies, that Papal Principles bear ſuch a <hi>Vatinian Hatred</hi> againſt your <hi>Perſon, Government, and Religion,</hi> that they abhor the meaneſt Creature that croſſes them in the way of their Conſpiracies.</p>
+            <p>But I give them free leave to Storme! and if the Interpoſition of ſo inconſide<g ref="char:EOLhyphen"/>rable a thing as what I am, between your <hi>Sacred Perſon</hi> and their Fery, might intercept the Effect of their raging Malice, I ſhould glory to become your <hi>ſuc<g ref="char:EOLhyphen"/>cedaneous Sacrifice,</hi> and deſpair ever to place out my cheape Life to better ac<g ref="char:EOLhyphen"/>count,
+<pb facs="tcp:97234:4"/>
+then to pay it down upon the Nale, for the preſervation of yours, that is, of <hi>three Kingdoms,</hi> for ſeeing I owe a Death <hi>to Nature,</hi> my loyal Heart muſt interpret it a huge Advantage to ſwiſt <hi>Martyrdome</hi> with <hi>Mortality,</hi> and make ſo <hi>great a Virtue</hi> of <hi>inevitable Neceſſity<g ref="char:punc">▪</g>
+               </hi>
+            </p>
+            <p>You will eaſily believe Sir! I might have ſlept out my Dates in inglorious Eaſe, amongſt the Crowds of men of no Name or Noyſe, could I have ſatiſfyed myſelf to have ſtood a Spectator in the <hi>common Box,</hi> of thoſe <hi>Tragedies</hi> they had contrived, and laid <hi>great Brittan</hi> for the Seene of Action; but when once Duty and Allegiance had conquered the remainders of <hi>ſlaviſh Fears, worldly Hopes,</hi> or whatever of <hi>ſelf Reſpects</hi> might fright or flatter me out of <hi>honou<g ref="char:EOLhyphen"/>rable Danger,</hi> into a <hi>baſe Retreat,</hi> to diſcover their Deeds of Darkneſs before the Sun, I foreſaw, I muſt draw the Combined Wrath of that whole Faction upon my ſelf, and that all the lines of their Malice would enter at leaſt in the deſine of my Deſtruction, who otherwiſe fly at higher Games, and do not uſe to ſtoop at ſo Incon<g ref="char:EOLhyphen"/>ſiderable Quarry.</p>
+            <p>I accknowledge it was no ſmall Encouragement to me, to ſee with what Tranſ<g ref="char:EOLhyphen"/>ports your Majeſties loyal Subjects there preſent, expreſt their inward Joys, when the righteous Verdict of the Jury according to full, and clear Evidence of the Fact, at once proclaimed my own Innocence, and the villanous Confederacy of my Popiſh Enemies, but how would that Joy be multiplied if <hi>the grand Engineers</hi> of all theſe Miſchiefs, who ſit behind the Curtain and direct theſe <hi>Actors,</hi> were once brought to a <hi>legal Ordeal,</hi> which in effect would be condigne and exemplary Pan<g ref="char:EOLhyphen"/>iſhments? the rather becauſe all Eſſays towards ſettlement, all approaches towards ſatisfaction have proved fruitleſs, and will do ſo, whilſt the <hi>great Abettors</hi> and <hi>Fomentors</hi> of Treaſon, hug themſelves in the proſpect of not deſpayred Succeſs, and ſeem to defy and deride the Juſtice of the Nation.</p>
+            <p>I know well your Majeſties excellent Lawes are not like the <hi>Spiders Toyls,</hi> which entangle the leſſer Flyes, whilſt the great Tranſgreſſors by power, and intereſt brake through them. Nor dare we queſtion but your Wiſdom will find a ſit juncture of time to let the proudeſt Delinquents know, if they dare offend, your Juſtice will dare to puniſh: That the Sword which the Divine Grace had entruſted you with, is ſharpe enough to chop off <hi>a plotting Head,</hi> as well as to paire <hi>the Nayles</hi> of thoſe that would ſcratch your Royal Honour; that your equal, and impertial Juſtice will reckon with theſe <hi>Wholeſale Traytors</hi> who are in Arrear to the Laws for <hi>Talents,</hi> as well as you have called to account ſome of the <hi>Retayle Offendors,</hi> which com<g ref="char:EOLhyphen"/>paratively owed but a <hi>few Farthings..</hi>
+            </p>
+            <p>And in this Confidence your Majeſties loyal Subjects have waited, and ſtill do, and ſhall attend your <hi>Royal Leaſure,</hi> reſting ſatisfied that though your <hi>Majeſty</hi> will <hi>try,</hi> you will <hi>not diſſapoint</hi> their Expectations, and if you ſuffer their Hope <hi>to Gaſpe,</hi> you will not ſuffer it <hi>to give up the Ghoſt.</hi>
+            </p>
+            <p>I am confident there is no Prince in <hi>Europe</hi> that can Command more real and couragious Hearts then your <hi>Majeſty</hi> may: and when you have made <hi>a Purchaſe</hi> of their Hearts, their Hands, and Purſes, their Lives, and Eſtates are but <hi>Appurtinances</hi> which go along with, and of courſe are thrown into the bargain, on<g ref="char:EOLhyphen"/>ly they are ſo devoted to your Service that as they would have no <hi>forreign Prince, Pope, or potentate</hi> govern them, ſo they deſire you may be King <hi>of,</hi> and <hi>to</hi> all your Subjects:</p>
+            <p>Whilſt you ſhall unite them amongſt themſelves, and againſt your, and their common Enemy, they are wholy your own, and whilſt you ſecure to them their <hi>religious, and civil Intereſts,</hi> the Fruits of both are entirely in your Exchea<g ref="char:EOLhyphen"/>quer.</p>
+            <p>Which Union of your Proteſtant Subjects your old inveterate popiſh Enemies, dread more than all your Naval and Land Forces, who indeed only live by our Divi<g ref="char:EOLhyphen"/>ſions, and gather Confidence from our Animoſites: And this work as 'tis truly <hi>glorious,</hi> ſo 'tis exceeding <hi>eaſy,</hi> and I hope reſerved as the great bleſſing which
+<pb facs="tcp:97234:4"/>
+               <hi>England</hi> ſhall receive from your <hi>Royal Hand:</hi> for you ſee them all (except ſome few <hi>Bigots)</hi> impatiently waiting till your <hi>Majeſty</hi> ſhall remove the rocks of offence, cun<g ref="char:EOLhyphen"/>ningly by our adverſaries laid in the way of our peaceable Coaleſcence, and command us all to write in the grand Truths of the Proteſtant Religion, leaving the <hi>leſſer punctilio's</hi> a fit matter wherein to exerciſe charity and mutual forbearance, which o<g ref="char:EOLhyphen"/>therwiſe like fire for want of Fewel to feed it would expire. And though thoſe <hi>Zealots</hi> of <hi>all forms</hi> and <hi>perſwaſions</hi> amongſt us, who value their little preten<g ref="char:EOLhyphen"/>tions at a greater rate than that of the publick peace, may ſeem to diſcour age your pious endeavours this way, yet believe it (Sr.) the diſcord of a ſingle ſtring or two, will be drowned in <hi>the Harmony</hi> of an univerſal Jubilee.</p>
+            <p>All true Proteſtants are naturally enclined to peace <hi>upon conſciencious Terms.</hi> out of <hi>Intereſt</hi> as well as <hi>Duty;</hi> for if we be ſo mad as to create troubles in <hi>England,</hi> we are not ſo fond as to expect Peace in <hi>Italy;</hi> If we fire our own hou<g ref="char:EOLhyphen"/>ſes, <hi>Rome</hi> will never quench them; we have no foreign, Dependencies, or tranſ<g ref="char:EOLhyphen"/>marine expectancies, where ever our <hi>Circumference</hi> may be by Trade or Travel we <hi>Cenſor</hi> in your deſired ſelf; though 'tis far otherwiſe with our <hi>Catholicks</hi> who have <hi>a Head at Rome,</hi> and an Intereſt diſtinct form, and oppoſed to that of their <hi>Natural King and Native Country.</hi>
+            </p>
+            <p>Whatever Cruelties, and Barbariſms the Papiſts have acted amonſt us, may be paralleld by Inſtances from <hi>other Country's</hi> and <hi>former Ages,</hi> but ſtill from their own Patterns: Their late Ingenious Artifice to divolve the quilt and <hi>Odium</hi> of their own Treaſons, upon the innocent Proteſtants, may be ſampled in the <hi>Pow<g ref="char:EOLhyphen"/>der Treaſon,</hi> and the <hi>Maſſacre of Paris;</hi> In the former of which (had it ſuc<g ref="char:EOLhyphen"/>ceeded) the <hi>Puritans</hi> muſt have born the blame and ſhame of their Villanies; in the <hi>latter Inſtance,</hi> the <hi>Hugonots</hi> did actually bear it, and Knights of the poſt were ſuborned to ſwear againſt the valiant <hi>Briquemault,</hi> and gallant <hi>Caviagnes</hi> that they with the great Admiral <hi>Caligni</hi> had conſpired the Death of the <hi>King,</hi> and the <hi>Duke of Guiſe,</hi> and accordingly theſe innocent Perſons were Executed; ſo trite a Method is it for our Catholicks to object their own Treaſons to their Ene<g ref="char:EOLhyphen"/>mies, and it<hi>'s</hi> evident that they never contrived <hi>a Plot for the Proteſtants,</hi> but at the ſame time they deſigned upon the pretence and under the umbrage <hi>a general Maſſacre</hi> of them: but now what Hiſtory can give us an example ſo contrived, we repeated a project, to <hi>Corrupt</hi> (if it were poſſible) the Evidence which divine Pro<g ref="char:EOLhyphen"/>vidence had brought in againſt their Treaſons or to ſuborn a company of <hi>Rake-hels</hi> to diſparage the Teſtimony of thoſe, who came in as <hi>Voluntiers</hi> to ſave a Prince and his People from imprudent deſtruction.</p>
+            <p>I am far from deſpairing to ſee your Majeſties Kingdoms once more yet happy, that is, freed from theſe Peſts of all Societies, the ſworn Enemies to Peace and Truth, <hi>the Prieſts and Jeſuits</hi> without which 'tis impoſſible <hi>England</hi> ſhould be happy: which is no <hi>Concluſion</hi> haſtily, and raſhly drawn from a <hi>ſolitary, or ſin<g ref="char:EOLhyphen"/>gle obſervation,</hi> but the uniform experience of all times ſince this Iſland was reſcu<g ref="char:EOLhyphen"/>ed from Romiſh Slavery by a Miracle of mercy, no leſs glorious than that of the Redeeming <hi>Iſrael</hi> from <hi>Egypt</hi> or <hi>Balylon.</hi>
+            </p>
+            <p>The <hi>Engliſh Soyl</hi> carries the ſame Antipothy againſt the <hi>Ignatian</hi> Fraternity, that <hi>Ireland</hi> bears no venomous Creatures and 'tis the happier conſtitution of the two that we maintain a radicated enmity againſt the <hi>Romiſh Wolves,</hi> then that they can boaſt of the averſion of their Ayr or Soyl to <hi>Spiders, to Adders and Serpents;</hi> a temper and natural Complexion, which we owe not to any fabulous miroculous pow<g ref="char:EOLhyphen"/>er of St. <hi>Patrick,</hi> but to that more powerful Influence of <hi>the grace of God:</hi> which cannot be interpreted a ſudden flaſh or haſty ferment of ſpirit, which will be daſh'd in a moment, but to the <hi>Genius,</hi> and <hi>Intereſt</hi> of the People, whoſe <hi>Piety</hi> has been their beſt <hi>Policy,</hi> it being a <hi>ſtaple Maxime</hi> bequeathed to your <hi>Majeſty</hi> from that Glorious <hi>Jacen</hi> of eternal and happy Memory, that our only way to ſecure peace <hi>at Home,</hi> was to love none <hi>with Rome,</hi> nor reconciliation with them to be attempted till they ſhall ceaſe to be what they are, and diveſt them of their imbred Diſloyalty.</p>
+            <pb facs="tcp:97234:5"/>
+            <p>Hiſtory tells us of a <hi>Great Prince</hi> that habituated his body to the uſe of poyſon, till no poyſon would work upon him; but that which is the Serpents <hi>Nature</hi> is our <hi>Diſeaſe;</hi> If <hi>Spain</hi> can live with ſuch a Doſe of Superſtitions and Hereſies in its Bowels, <hi>we</hi> cannot; but muſt eternally languiſh; till <hi>Nature,</hi> or the <hi>Poyſon</hi> get<g ref="char:EOLhyphen"/>teth victory: All thoſe convulſive motions, all thoſe pangs, thoſe gripes, and dread<g ref="char:EOLhyphen"/>ful ſymptoms that have been found upon us of late, are entirely due to ſome frag<g ref="char:EOLhyphen"/>ments of this <hi>Popiſh Poyſon,</hi> which the <hi>Nation</hi> has unawares lickt up, or has been given it in ſome <hi>plauſible Vehicle;</hi> and all our diſtortions, ſtruglings and commotions in many parts of the <hi>body politick</hi> are nothing elſe but the <hi>ſtrainings</hi> and <hi>Pumpings</hi> of a ſtrong Constitution to eject the venom that we have unadvi<g ref="char:EOLhyphen"/>ſedly contracted.</p>
+            <p>I can diſcern nothing by the pulſe of the Nation, but that the heart is yet ſound for <hi>God, and the King,</hi> the vitals are good, and perhaps the <hi>true old Engliſh Spirit</hi> may by the ſtrength of its <hi>natural Craſis</hi> overcome, and throw off thoſe ill humours which at preſent oppreſs it; but yet Nature may want a little help, and when ſhe diſcovers a willingneſs to diſcharge that which burthens it, thoſe indicati<g ref="char:EOLhyphen"/>ons are to be obſerved, and her attempts to be encouraged.</p>
+            <p>Which your Majeſty will have the glory of, when you ſhall conſult your <hi>Great Colledge of Phyſitians,</hi> who proceed upon the ſolid Principles of <hi>Art,</hi> and liſten not to thoſe <hi>Empiricks</hi> who try concluſions with us, and ſhew tricks upon us, to their own ſhame, and the retarding our hopes of a perfect Cure, and through-recovery.</p>
+            <p>God has honoured your <hi>Sacred Majeſty</hi> with <hi>a peculiar Grace,</hi> to heal that Diſeaſe which we commonly call the <hi>King's-evil</hi> (not that he <hi>cauſes</hi> it, but that he <hi>cures</hi> it) with <hi>one Touch of your Royal Hand.</hi> Sr. we come to you for one <hi>So<g ref="char:EOLhyphen"/>veraign Touch,</hi> May it pleaſe you but to put your Hand to one <hi>Bill</hi> humbly ten<g ref="char:EOLhyphen"/>dred to you by your loyal Subjects at their <hi>next Seſſion,</hi> to deliver us from our pre<g ref="char:EOLhyphen"/>ſent Dangers, and ſecure us againſt future fears, and you have healed us all.</p>
+            <p>I confeſs that we are not touch't, and healed, is not <hi>your Majeſties</hi> fault but our own, who lye pining, and languiſhing under our Maladies, and perhaps as <hi>un<g ref="char:EOLhyphen"/>civilly</hi> as <hi>unjuſtly</hi> complaining of others, when we ſhould complain of our own ſlug<g ref="char:EOLhyphen"/>giſhneſs, that we make not our frequent Addreſſes to your <hi>Majeſties Grace and Favour</hi> for this divine Medicine: 'tis paſt your <hi>Majeſties Obligations,</hi> and I be<g ref="char:EOLhyphen"/>lieve your <hi>Skill</hi> too, to cure a People whether they will or no: 'tis but decent we <hi>complain to,</hi> though <hi>not of</hi> the Phyſitian, that we may learn to prize reſtored health at greater rates, and teſtifie the gratitude of thoſe that have been at the Shrine of <hi>AEſculapius</hi> by ſome Noble Fee, which I dare promiſe you; for a through-cure would be the moſt noble that ever <hi>a ſaved Nation</hi> tendered to their Preſervers.</p>
+            <p>I know not how I am fallen into this odd way of expreſſing my ſelf, I am ſure I ought to beg your <hi>Majeſties pardon</hi> that I have imitated thoſe affected modes of ex<g ref="char:EOLhyphen"/>preſſions, which your <hi>great Soul</hi> does juſtly ſcorn; But I ſhall purſue the Humour no further then to repreſent to your ſacred Majeſty that as ſome learned Obſerva<g ref="char:EOLhyphen"/>tors have proved, that <hi>Engliſh Simples</hi> are moſt congenial to <hi>Engliſh Bodies,</hi> and work more benignly upon us than all the <hi>far-fetcht and dear-bought Drugs</hi> of <hi>Pon<g ref="char:EOLhyphen"/>tus,</hi> ſo the Wholſom Laws, and Cuſtoms of your own Kingdom, duly and properly applyed will work more glorious and admirable effects to the compoſing all our dif<g ref="char:EOLhyphen"/>ferences, preventing all recidivations, and relapſes, then all your boaſted <hi>Catholi<g ref="char:EOLhyphen"/>cons</hi> of our exotick chymical Empiricks, and at once diſappoint Hell, and <hi>Rome,</hi> and preſerve your Majeſties Perſon, and our Religion, if your Majeſty pleaſes.</p>
+            <p>Which is the daily prayers and humble petition to the <hi>King of Kings.</hi>
+            </p>
+            <closer>
+               <dateline>Whitehal, <date>Decemb. 4th. 1679.</date>
+               </dateline>
+               <signed>Your Majeſties Moſt humble Moſt loyal Subject, and Serant, <hi>Titus Oates.</hi>
+               </signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="introduction">
+            <pb n="1" facs="tcp:97234:5" rendition="simple:additions"/>
+            <head>The Introduction.</head>
+            <p>'TIs the great unhappineſs of extraordinary ſurprizing evils, that they diſarm us at once of Counſel and Self-defence, and render our Reaſons, Tongues and Hands moſt unſerviceable, when we have moſt need of their ſervice. As little griefs are querulous, and talkative, ſhallow brooks loquacious, when great ſorrows, like deep rivers, ſlide away without noiſe: Such is the poſture of our ſouls in reference to dangers; if they be ordinary, we know perhaps what to adviſe upon, what to ſay, what to do; but if extream, we are no longer Maſters of Wiſdom, we loſe the freedom of the Tongues to plead our Cauſe, and the uſe of our Hands to make a juſt and vigorous oppoſition againſt thoſe evils.</p>
+            <p>I know not how, but ſo it is, our implacable enemies the Papiſts, have got the <hi>Gorgons Head,</hi> or the great ſecret of the <hi>Torpedo,</hi> that we ſeem all to be Petrified and turned into ſenſleſs Statues, whilſt they cut our throats, and practice at their own leiſure our final Ruine.</p>
+            <p>Had the <hi>Proteſtants of France</hi> burnt the <hi>ſmalleſt Village;</hi> had they murdered the <hi>meaneſt Peaſant;</hi> had they attempted the leaſt diſturbance of the Civil or Eccleſiaſtical Government, they muſt not have expected due forms of Law, nor the picking out of the guilty Individuals, to be ſacrificed to Juſtice; but Popiſh fury had let it ſelf looſe in ſome univerſal Maſſacre, to the utter extirpation of the name of Hugonots; for they that have once done the ſame thing without the leaſt provocation, may be preſum'd ready to do it upon a very ſlighty occaſion: But they muſt thank the goodneſs of our Natures, or rather the excellency of our Laws, and Religion, that we have proceeded with them in other methods, and have choſen to oppoſe <hi>Law to violence; Patience to fury; Moderation</hi> and <hi>Mercy,</hi> to <hi>malice</hi> and <hi>cruelty,</hi> rather than to ſtain our Religion with the leaſt blot of precipitated Revenge.</p>
+            <p>But were I worthy to be their Counſellor, I would mildly warn them not to pro<g ref="char:EOLhyphen"/>voke Engliſh men any further, nor awaken their juſt indignation with repeated im<g ref="char:EOLhyphen"/>portunities, who knows what an exaſperated people may do? there's none can be guarranty againſt the Rage of a Nation blown up to a flame by the bellows of con<g ref="char:EOLhyphen"/>tinued, and renewed, and growing Inſolencies.</p>
+            <p>It had been happy for us and them too, if the unanimous Reſolve of the Late Houſe of Commons, had reduced the reſtleſs Papiſts to more moderation in their Villanies: I will remind them fairly of it.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="resolution">
+                        <head>
+                           <hi>May</hi> 11. 1679.</head>
+                        <p>
+                           <hi>Reſolved,</hi> Nemine contradicente, <hi>That this Houſe will ſtand by His Majeſty with their lives and fortunes; and that if it ſhall happen that His Majeſty ſhall be taken away by any untimely death (which God forbid) this Houſe will avenge the ſame to the utmoſt upon the</hi> Papiſts.</p>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>The wiſdom, juſtice and reaſonableneſs of which Vote, is founded viſibly upon that Act of Parliament 27 <hi>Eliz.</hi> 1. whereby the people are authoriz'd to proſecute with the utmoſt extremities the bloody Papiſts, who with unwearied endeavours were contriving the Death of that Queen of famous and bleſſed memory, in hopes to bet<g ref="char:EOLhyphen"/>ter their condition by the ſucceſſion of one who gave proof to the loſs of her Head of her addictedneſs to the Romiſh Hereſie and Idolatry.</p>
+            <p>I meet with nothing in ſtory that can parallel the obſtinacy of our Romiſh Con<g ref="char:EOLhyphen"/>ſpirators, except perhaps that of the deſperate Soldier, who laid hold on the Ene<g ref="char:EOLhyphen"/>mies Galley, and when his right hand was cut off, yet he ſeized it with the left; and when that was alſo topt off, he faſtened his teeth to the Veſſel, reſolving tooth and nail to hold his hold, till his head taken off too, put a period at once to his life and bruitiſh Courage: The Juſtice of the Nation had already cut off their right hand, the Jeſuites, or at leaſt ſome of the fingers of the right hand; It has not ſpared their laity, the left hand in their bold and bloody Conſpiracies, and yet they proceed at
+<pb n="2" facs="tcp:97234:6"/>
+the ſame undaunted rates of pertinacy, and will do ſo till the heads of the Faction which influence the whole body with ſpirit, life and activity be ſeparated by the ſame ſtroke of exemplary Juſtice from it.</p>
+            <p>That they have formed the moſt horrid treaſon againſt the Perſon, life, and government of his Sacred Majeſty, againſt the Proteſtants and the Proteſtant Religi<g ref="char:EOLhyphen"/>on; that they have endeavourd to corrupt all the evidence which providence has ſummond in, to diſcover their villanies; that they have deviliſhly ſuborned Knights of the Poſt to take away the credibility of their teſtimony; and with the ſame malice peculiar to themſelves have now at laſt attempted to devolve the Odium and Guilt of their abominable villanies upon the innocent Proteſtants, is now ſo notorious as to be paſt a Queſtion with all mankind whom either Intereſt, or Impudence has not ſo far gulled, that they are given up to Infidelity.</p>
+            <p>And yet amongſt all thoſe worthy perſons whom God has raiſed up as Saviours, and deliverers to <hi>England,</hi> there is none againſt whom their poiſoned ſpleen does more ſwell than ag<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>inſt Him, who being the firſt, and fulleſt Evidence againſt them, had drawn all the lines of their hatred to center in his deſtruction. I ſhall not need to tell the world that I mean <hi>Dr. Titus Oates,</hi> he is the perſon againſt whom they have ſhot all the Arrows of obloquy and ſlaunder; 'tis his life that muſt be devoted to the raging waves, to appeaſe the Tempeſt; he is the <hi>Jonas,</hi> that muſt be caſt over-board; not becauſe he fled from God to <hi>Tarſus,</hi> but becauſe he forſook <hi>Rome</hi> for God; Treaſon for Loyalty, and the Tents of wickedneſs for the Camp of <hi>Iſrael.</hi>
+            </p>
+            <p>I have wondred that they, who in the Magazine and Treaſury of their Church, have ſuch variety, and with their variety ſuch Stores of Pardons, Indulgencies and Diſpenſations for Inceſt, Murder, Adultery, Simony, Aſſaſſinating of Princes, diſ<g ref="char:EOLhyphen"/>penſed by the hand of their holy Father to all his dear Children, cannot lend one Pardon to him that has been inſtrumental to ſerve and preſerve his natural King and Native Country: Is this at laſt diſcovered to be the unpardonable ſin? Has every crime its expiation with them, but Repentance? Is this the only mortal heinous ſin, that deſerves utter extermination, and exciſion? Will no ſacrifice be accepted but his blood? Muſt his life pay the price of his Loyalty? I dare aver it, had this Gentleman been really guilty of all thoſe, and ten times more than all theſe enormities they have falſly and impudently laid to his charge, a ſlender confeſſion, and ſlighty pennance might have procured a moſt eaſie Abſolution; provided al<g ref="char:EOLhyphen"/>waies he had been true to the Cauſe, and would have embarqued his ſoul in the ſame Leaky Bottom of their Pſeudocatholick Church with themſelves; but the grea<g ref="char:EOLhyphen"/>teſt Treaſon with them is to diſcover and prevent their Treaſons; the higheſt crime to dilate and impeach their crimes, and nothing renders a man more incapable of forgiveneſs, than not to need it.</p>
+            <p>The Proteſtants have indeed been under ſome diſadvantagious Circumſtances, that have rendred them leſs capable to defeat the deſigns of their politick enemies, a<g ref="char:EOLhyphen"/>mongſt which none has more encouraged the Papiſts to proceed in their ſo often baffled enterprizes, than the incredulouſneſs of the Proteſtants themſelves: for the fine and Mercurial wits of the Jeſuits and their accomplices had raiſed a Treaſon to that ſuperlative height of Impiety, that it was ſomewhat too big for the bore of our faith; it had almoſt ſtranded the belief of thoſe who looked into their own hearts for a footſtep of ſuch wickedneſs, and attended not the preſidents upon Record of the like practices, though in ſome particulars it muſt be confeſſed they have out<g ref="char:EOLhyphen"/>vyed former Ages and themſelves: Had it been a modeſt piece of Roguery, an or<g ref="char:EOLhyphen"/>dinary Eſſay of Treaſon, or ſome common inſtance of Jeſuitical contrivance, we ſhould have found an ordinary faith for its entertainment, and eaſily admitted the credibility of it; but when malice is rampant, when villany is tranſcendent, and got a<g ref="char:EOLhyphen"/>bove all the predicaments, all the Schemes of uſual deviliſhneſs; this, this is that which poſes and puzzles the thoughts of common ſiz'd ſinners, how to conceive mankind ſhould be ſo deſperately debauched, ſo horribly degenerated, as to engage in unparallel'd unpreſidented miſchiefs.</p>
+            <pb n="3" facs="tcp:97234:6" rendition="simple:additions"/>
+            <p>But our Catholicks are reſolved to cure us for ever of our Infidelity, and to let us know by Antopſie, that henceforward there is no evil ſo great which their daring towring Inventions cannot excogitate; and when they have done, if we will ſit with our fingers in our mouths, execute it too; ſo that now they have furniſht us with a faith even to <hi>Plerophory,</hi> that they are full as bad as the publick Juſtice of the Nation has repreſented them.</p>
+            <p>Out of the vaſt Maſs of complicated Villanies which adorn the ſtory of this hi<g ref="char:EOLhyphen"/>deous Plot, I have ſingled out one, and but one particular wherein to gratify the cu<g ref="char:EOLhyphen"/>rious, and ſatisfy the Judicious; And that ſhall be the Curſed Deſign of <hi>Thomas Knox, William Oſburn,</hi> and <hi>John Lane</hi> to invalidate the teſtimony of <hi>Dr. Oates</hi> and Mr. <hi>William Bedlow,</hi> by fixing upon them a Conſpiracy againſt the life of the Earl of <hi>Danby</hi> Priſoner in the Tower; but eſpecially to charge the former of thoſe worthy Perſons, with a Crime, which had it been true, muſt have renderd him a Perſon ſo ſcandalous, and vicious in his morals, as would have cauſed a ſuſpicion in the breaſts of all that were poſſeſt with the truth of it of the veracity of the ſaid Dr. <hi>Oates</hi> in all is former, and future Teſtimonies.</p>
+            <p>Why theſe men of proſtituted conſciences ſhould only attempt the murder of the Doctors good name and not diſpatch him out of the way by Dagger, Piſtol, or Poyſon, I can aſcribe to nothing but to the vigilance of the ſame never ſlumbering eye that has hitherto preſerved his Majeſty and the Proteſtant Religion, againſt thoſe Hel<g ref="char:EOLhyphen"/>liſh attempts which have been made upon them: but ſeriouſly all Proteſtants muſt reflect upon it with admiration, that in ſo long time, they that could in a moment ſend Mr. <hi>Juſtice Godfrey</hi> out of the way, have not been able to deſtroy one, no not one of thoſe many who have appeared to accuſe them, wherein we muſt adore the goodneſs of God who by his own hand could, but would not, and by the ſame hand has reſtrained them who would, but ſhould not be able to touch them.</p>
+            <p>But that I may not make a Porch ſo unproportionably great that the houſe may run out at the portall, I ſhall not move paſſion or compaſſion any further, but leave the Reader to his own Impartial thoughts, to make reflections and commentaries upon the enſuing Narrative.</p>
+            <closer>
+               <salute>Farewel.</salute>
+            </closer>
+         </div>
+         <div type="text">
+            <head>
+               <hi>A faithful and particular Account of a moſt horrid Contrivance of the Papiſts to in<g ref="char:EOLhyphen"/>validate the evidence of</hi> Dr. Titus Oates, <hi>by repreſenting his Perſon ſcandalous, and his veracity queſtionable, which accurſed deſign was managed by</hi> Thomas Knox, William Osburn, <hi>and</hi> John Lane, <hi>as the Inſtruments, but governed by wiſer heads then their own.</hi>
+            </head>
+            <p>When I have informed the Reader that Mr. <hi>Knox,</hi> was formerly ſervant to the <hi>Lord Dumblain,</hi> Son to the <hi>Earl of Danby,</hi> he will eaſily ſuggeſt to himſelf the reaſon why he was ſo active an Inſtrument in this great affair: and when he ſhall know alſo that Mr. <hi>Oſburn,</hi> and Mr. <hi>Lane</hi> were or had been Servants to Dr. <hi>Oates,</hi> he will eaſily juſtify the prudence of the Confederates to draw them by the greateſt promiſes and reward into the Confederacy.</p>
+            <p>But it will be neceſſary to let the Reader know in a few, and but a few more words, that theſe leſſer and lower wheels only moved according to influence, and direction of greater Politicians, that what ever theſe common ſea-men had to do with the tackle, yet there were more ſubtle heads that attended the Steerage and Compaſs.</p>
+            <p>That Mr. <hi>Lane</hi> had intimacy with Mrs. <hi>Cellier,</hi> who was the great Agent between <hi>the Lords in the Tower,</hi> and the ſmall Engineers that were plying abroad, appears from the depoſition of <hi>Anne Blake,</hi> ſervant to the ſaid <hi>Cellier,</hi> as I find in <hi>Collonel Manfel</hi>'s Narrative.</p>
+            <p>That the Lords in the <hi>Tower</hi> were mightily concerned for their beloved friend Mr. <hi>Lane;</hi> Mr. <hi>Dangerfield</hi> in his Informations of <hi>Novemb.</hi> 1. 1679 before the Coun<g ref="char:EOLhyphen"/>cilb-oard aſſures us; <hi>when Lane</hi> (ſays he) <hi>lay at Powis houſe,</hi> that Lord <hi>adviſed he ſhould be ſent out of the way,</hi> for (ſaid the Lord <hi>Powis)</hi> Oates <hi>ſearches for him, and if he be found at my houſe, 'twould ruine us All.</hi>
+            </p>
+            <pb n="4" facs="tcp:97234:7"/>
+            <p>And this Mr. <hi>Lane</hi> himſelf being examined by the Council, <hi>Nov.</hi> 4. 1679. ſaies, <hi>That he lay at</hi> Powis-houſe <hi>a month or ſix weeks</hi> by order of <hi>Willoughby,</hi> and Mrs. <hi>Cellier, from whom he had his diet; That he went by the name of</hi> Johnſon, <hi>fearing to be arreſted by Mr. Oates,</hi> for what he had teſtified againſt him, and in that fear he went down to <hi>Greys,</hi> near <hi>Graveſend,</hi> and had a pair of ſhooes given him by Mr. <hi>Willoughby,</hi> who alſo got him out of Priſon, which was a chargeable work. And being askt by one of the Lords, whether he had not before the Houſe of Lords, made two contrary <hi>Affidavits,</hi> he acknowledged that out of fear he did ſo, but that the firſt drawn by <hi>Willoughby,</hi> as Mr. <hi>Nevill</hi> had directed was true, and the other falſe.</p>
+            <p>I ſhall not need to purſue this point any further: The Lord <hi>Powis</hi> gives him houſe-room; Mrs. <hi>Cellier</hi> paies for his diet; Mr. <hi>Willoughby</hi> gives him ſhooes, and gets him out of priſon at great rates, but nothing can be too dear to ſupport ſo precious an Inſtrument of a deſign ſo near and dear to them.</p>
+            <p>Having gotten an Inſtrument ſo fit for the buſineſs, their next conſultation muſt be how to manage it with prudence; for they had freſh Inſtances before their eyes of ſome that had endeavoured to corrupt the King's Evidence, or to take away the Credit of their Teſtimony, which had miſerably miſcarried<hi>:</hi> Theſe examples, though freſh in memory, were not ſufficient to deter them from proceeding in ſo pious a work, but only ought to caution them to proceed with more advice; and therefore <hi>Mr. Knox,</hi> who like the Mole under ground, was the grand Agent, muſt not appear by any means, but ſeem to be haled into the concern by the repeated importunities of <hi>Lane</hi> and <hi>Osborne;</hi> and for this end Mr. <hi>Knox</hi> finds this the only expedient, to indite ſeveral Letters, which being written out by them, or one of them, might be ſent with great formality to his own worthy ſelf; wherein they are to intimate to him, that knowing him a perſon that had a due veneration for the Earl of <hi>Danby,</hi> they judged him the only meet perſon whom to acquaint with their ſecrets; they tell him (or rather he tells himſelf) how they laboured con<g ref="char:EOLhyphen"/>tinually under the ſtings of their own conſciences, for concealing that which might clear up the Innocency of the ſaid honourable perſon; that they had tryed ſeve<g ref="char:EOLhyphen"/>ral waies to divert theſe black thoughts, but all would not do; ſtill they were purſued by their guilt, and therefore entreat, beſeech and importune him that he would put them in a way to exonerate their conſciences.</p>
+            <p>'Tis very true, the only real way to have recovered their peace, (if they could be ſaid to loſe what they never had) was to have repented of their horrid and helliſh Combination againſt the Innocency of <hi>Dr. Oates,</hi> and <hi>Captain Bedlow;</hi> but it was not a Cure they deſigned, but a greater wound, not to unload their ſouls of, but further to charge them with guilt: It was agreed Dr. <hi>Oates</hi> and Mr. <hi>Bedlow</hi> muſt be guilty, the Catholick Cauſe required it; and therefore if they could forge a Conſpiracy between <hi>Mr. Oates</hi> and <hi>Mr. Bedlow</hi> againſt the <hi>Earl of Danby,</hi> it would prove a fatal blow at the root of the Houſe, and the pro<g ref="char:EOLhyphen"/>ſecution of the Plot muſt needs fall to the ground.</p>
+            <p>And if it could be once made out that there had been a Conſpiracy againſt the late Lord Treaſurer, it would by conſequence go far to prove that all the Evi<g ref="char:EOLhyphen"/>dence that ſhould be given in againſt the Lords in the <hi>Tower,</hi> was of the ſame metal, and would vaniſh into ſmoak: And that great man the E. of <hi>Danby</hi> was ſo confident of ſucceſs in the fair promiſing hopes of Mr. <hi>Knoxes</hi> Agency, that he delivered himſelf up at the ſitting of the Parliament, to the Uſher of the <hi>Black Rod,</hi> not fearing any colours. But I ſhall not any longer detain the Reader from looking into the myſtery of theſe Letters.</p>
+            <div type="part">
+               <pb n="5" facs="tcp:97234:7" rendition="simple:additions"/>
+               <head>
+                  <hi>A true Copy of four Letters, ſent from</hi> William Osborne <hi>and</hi> John Lane, <hi>to</hi> Tho<g ref="char:EOLhyphen"/>mas Knox<hi> by the direction of the ſaid</hi> Knox, <hi>the Original Letters being in the Relators poſſeſſion.</hi>
+               </head>
+               <floatingText type="letter" xml:lang="eng">
+                  <body>
+                     <head>(Numb. 1.) Superſcribed, <hi>To Mr. Thomas Knox, theſe.</hi>
+                     </head>
+                     <opener>
+                        <dateline>
+                           <date>
+                              <hi>Apr.</hi> 2. 1679.</date>
+                        </dateline>
+                        <salute>SIR,</salute>
+                     </opener>
+                     <p>I <hi>Had forgot to tell you, that yeſterday morning I left Mr.</hi> Oates, <hi>the wicked<g ref="char:EOLhyphen"/>neſs of whoſe Converſation, and lewdneſs of his Perſon, I could no longer bear, though I had ſome thoughts of going from him to Mr.</hi> Dugdale. <hi>My reſo<g ref="char:EOLhyphen"/>lution is now changed, and I am reſolved to go as ſoon as I can home to my own Countrey, but I would willingly before I depart, leave</hi> London <hi>with a good Con<g ref="char:EOLhyphen"/>ſcience, and in order to that, I would diſcharge my mind of what I know concern<g ref="char:EOLhyphen"/>ing the malicious proceedings of Mr.</hi> Oates, <hi>and Mr.</hi> Bedlow, <hi>against my</hi> Lord Treaſurer, <hi>therefore I do <gap reason="blank" extent="1 word">
+                              <desc> _____ </desc>
+                           </gap> you, if you love my</hi> Lord, <hi>to put me into a w<gap reason="illegible" resp="#UOM" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>y how I may legally diſcharge my Conſcience of that matter which lies heavy on it, and you will eternally oblige him, whom I hope you do believe is</hi>
+                     </p>
+                     <closer>
+                        <signed>Your true Friend, <hi>William Osborne.</hi>
+                        </signed>
+                     </closer>
+                     <postscript>
+                        <p>I do believe this to be <hi>Osborne</hi>'s hand,</p>
+                        <closer>
+                           <signed>Thomas Knox.</signed>
+                        </closer>
+                     </postscript>
+                  </body>
+               </floatingText>
+               <p>But it ſeems (for ſo he would wheedle us to believe him) Mr. <hi>Knox</hi> was ſomewhat averſe to engage in a Buſineſs, whoſe iſſue he could not foreſee; Alas! the good man was fleſh and blood as well as other men, he lov'd to ſleep in a whole skin, and ſaw no reaſon he had to burn his ſingers in other mens fire, and therefore ſhew'd great unwillingneſs to hearken to them; till Mr. <hi>Osborne,</hi> and Mr. <hi>Lane,</hi> with united Forces aſſault him, and by a ſecond Letter importune him to give ſome eaſe to their troubled Conſciences, which Letter was dated but two days after the former, ſo painful was it for theſe tender-conſcienced Gentlemen to lie under the reproaches of their own hearts.</p>
+               <floatingText type="letter" xml:lang="eng">
+                  <body>
+                     <head>
+                        <hi>(Numb.</hi> 2.) To Mr. Knox at his Lodgings, this.</head>
+                     <opener>
+                        <salute>SIR,</salute>
+                     </opener>
+                     <p>
+                        <hi>MR. Lane</hi> and I are both extremely troubled that we cannot hear from you, and eſpecially in a matter of this high nature, which concerns ſo near<g ref="char:EOLhyphen"/>ly the Life of my <hi>Lord Treaſur<gap reason="illegible" resp="#UOM" extent="2 letters">
+                              <desc>••</desc>
+                           </gap>;</hi> for we are both very uneaſie, and extremely troubled in our minds for fear we ſhould loſe time, and my <hi>Lord Treaſurer</hi> ſhould ſuffer by our neglect, whil<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>st we can with ſo ſafe a Conſcience declare to the world, how maliciouſly he is proſecuted, and what Contrivances are daily practiſed against him by Mr. <hi>Oates,</hi> and Mr. <hi>Bedlow,</hi> as you might eaſily perceive by thoſe Informations, and other Memorials, we at the first time at our meeting ſhewed you. Sir, It is now three days ſince our laſt meeting, and we do now beg you for Gods ſake, to inform us how we may legally put an end to this matter; for we are in daily trouble, and fear of our lives, leſt thoſe our honeſt intentions ſhould come to the ears of Mr. <hi>Oates,</hi> and Mr. <hi>Bedlow,</hi> whoſe tempers we know ſo well, and the revenge of whoſe minds are ſo great, that they would ſtudy all the ways imaginable to ruine us, and take away our good names, rather than ſo true a matter as we have already declared to you ſhould be proved againſt them; we therefore once more intreat the favor of you, ſince you are the onely perſon we dare truſt, to do us the juſtice of a meeting, and we are ſure if you have any kind<g ref="char:EOLhyphen"/>neſs for my <hi>Lord Treaſurer,</hi> you will not deny it us; and we ſhall then with the ſame care that we have done before, endeavour to clear our Conſciences to you of all the matter we know ſpoken either againſt His <hi>Sacred Majeſty,</hi> the <hi>Lord Treaſurer,</hi> or any other perſon whatſoever: which is all at preſent, from</p>
+                     <closer>
+                        <signed>Your faithful Friends, <hi>William Osborne, John Lane.</hi>
+                        </signed>
+
+
+                     </closer>
+                     <postscript>
+                        <p>Pray do not fail to meet us at the Cloyſters, this afternoon at 4 a clock, <hi>Apr.</hi> 4. 1679.</p>
+                     </postscript>
+                     <postscript>
+                        <p>
+                           <hi>I do believe this to be</hi> Lane<hi>'s and</hi> Osborne<hi>'s hand,</hi>
+                        </p>
+                        <closer>
+                           <signed>Tho. Knox.</signed>
+                        </closer>
+                     </postscript>
+                     <postscript>
+                        <p>
+                           <hi>An Endorſement to the foregoing Letter, Memorand.</hi> That I met with Mr. <hi>Lane</hi> and Mr. <hi>Osborne,</hi> according to the contents if this Letter, and they there told me, that Mr. <hi>Oates</hi> and Mr. <hi>Bedlow</hi> were to ſup at the <hi>Palſgraves-head.</hi>
+                        </p>
+                     </postscript>
+                  </body>
+               </floatingText>
+               <pb n="6" facs="tcp:97234:8"/>
+               <p>All this while Mr. <hi>Knox,</hi> muſt ſeem to keep great ſtate, and to hold off from intermedling in an affair of ſo high a nature, and therefore <hi>Osborne</hi> and <hi>Lane</hi> re<g ref="char:EOLhyphen"/>ſolve to attaque him with a third Letter, wherein they expreſs the trouble of their minds for which they can find no eaſe, till they have revealed to ſome per<g ref="char:EOLhyphen"/>ſon of Honour, and Secreſie, what they knew againſt Mr. <hi>Oates,</hi> and Captain <hi>Bedlow;</hi> that ſo they might not draw the guilt of innocent blood upon their own heads, which they muſt inevitably do, if they ſuffer the Earl of <hi>Danby</hi> to periſh, when they underſtood ſo much of the Conſpiracy of Mr. <hi>Oates</hi> and Mr. <hi>Bedlow</hi> againſt him, as being revealed, would make him appear to all the world to be innocent.</p>
+               <floatingText type="letter" xml:lang="eng">
+                  <body>
+                     <head>
+                        <hi>(Numb.</hi> 3.) <hi>Superſcribed,</hi> To Mr. Knox, theſe.</head>
+                     <opener>
+                        <dateline>
+                           <date>Apr. 6. 1679.</date>
+                        </dateline>
+                        <salute>SIR,</salute>
+                     </opener>
+                     <p>SInce our laſt meeting, we have not any thing new to communicate unto you, by reaſon that we had ſuggeſted all that we formerly knew into thoſe Pa<g ref="char:EOLhyphen"/>pers which at our firſt meeting we ſhewed unto you; And as we are ſure there is nothing contained in thoſe Papers and Memorials, but what is really true, and what we may with a ſafe Conſcience ſwear to; ſo leſt you ſhould ſuſpect our fi<g ref="char:EOLhyphen"/>delity and ſtedfaſtneſs in this Affair, we do now make it our requeſt unto you, that we may be ſpeedily brought before ſome Perſon of Honour and Secreſie, to take our Oaths of what we have already related. And I hope you will pardon us, if we once again preſs your haſtening of this matter, becauſe if it ſhould chance to come by any accident to Mr. <hi>Oates,</hi> and Mr. <hi>Bedlows</hi> ears, we are confident they would with as much malice contrive our Ruine, as they have already done my <hi>Lord Treaſurers;</hi> but we hope God will preſerve us from their mercy, and the Nation from believing them, which is all at preſent from</p>
+                     <closer>
+                        <signed>Your true Friends, <hi>William Osborne, John Lane.</hi>
+                        </signed>
+
+                     </closer>
+                     <postscript>
+                        <p>Pray meet us at ſix a clock at the Cloyſters, for we have a great deſire to ſee you, and pay the Bearer.</p>
+                     </postscript>
+                     <postscript>
+                        <p>
+                           <hi>I do believe this to be</hi> Lane<hi>'s hand,</hi>
+                        </p>
+                        <closer>
+                           <signed>Tho. Knox.</signed>
+                        </closer>
+                     </postscript>
+                  </body>
+               </floatingText>
+               <p>Mr. <hi>Knox</hi> yet thought not theſe Letters which he had dictated, to be ſufficient to clear him from all ſuſpicion of Practice and Confederacy, unleſs he had alſo contrived this fourth, wherein the main Artifice lay to anſwer an Objection, why they had not revealed this great Secret to ſome other perſon long before this; to which he invents an Anſwer for them, that they had already diſcover'd it to one Mr. <hi>Thuer</hi> of the Guard, but he being a prudent and wary perſon as well as Mr.<hi>Knox,</hi> adviſed them to Secreſie for their own ſake; but that indeed their Conſciences were ſo clamorous, that they muſt needs obey its dictates. The Let<g ref="char:EOLhyphen"/>ter is as follows.</p>
+               <floatingText type="letter" xml:lang="eng">
+                  <body>
+                     <head>(Numb. 4.) Superſcribed, <hi>To Mr. Knox, theſe.</hi>
+                     </head>
+                     <opener>
+                        <salute>SIR,</salute>
+                     </opener>
+                     <p>
+                        <hi>THat you may be the better ſatisfied, that what we have related to you is all truth, and what we have done we have been urged to by our own Conſciences, we muſt needs tell you that we did reveal this matter before we ever ſaw you, to Captain</hi> Thuer <hi>of the Guard, who, if you are acquainted with him, would give you an account, that what we ſay to you, we had formerly told him of, though at the ſame time he adviſed us to Secreſie for our own ſakes; but our Con<g ref="char:EOLhyphen"/>ſciences were ſo troubled that we could not contain it, and therefore choſe you, who Mr.</hi> Wiggins <hi>told Mr.</hi> Lane <hi>was a very honeſt young man, and loved my</hi> Lord Treaſurer, <hi>and he was ſorry he was brought to trouble by him, but that it was his Maſter Mr.</hi> Bedlow <hi>made him do it: Therefore I hope you think we have no deſign upon you, but that we will clear you, and our ſelves, whenever it ſhall pleaſe God that we ſhall be called to juſtifie what we have already declared.</hi>
+                     </p>
+                     <closer>
+                        <signed>Your faithful Friends, <hi>William Osborne, John Lane.</hi>
+                        </signed>
+                        <dateline>
+                           <date>Apr. 10 1679.</date> at 10 a clock in the morning.</dateline>
+                     </closer>
+                     <postscript>
+                        <p>I do believe this to be <hi>Osborne,</hi> and <hi>Lane</hi>'s hand,</p>
+                        <closer>
+                           <signed>Tho. Knox.</signed>
+                        </closer>
+                     </postscript>
+                  </body>
+               </floatingText>
+               <pb n="7" facs="tcp:97234:8" rendition="simple:additions"/>
+               <p>HAving given a true Copy of thoſe Letters, it will be requiſite to let the Reader into the inſide of this Conſpiracy: Know then, that Mr. <hi>Knox</hi> and his Crew had beaten their brains long, and uſed better brains than their own to draw up certain Informations, of the wickedneſs of Mr. <hi>Oates,</hi> and Mr. <hi>Bedlow,</hi> which they kept ready in bank againſt the good time they ſhould meet with ſome Juſtice of the Peace that would ſerve the Deſign: They went to Mr. <hi>Juſtice Cheyney,</hi> at <hi>Chelſey,</hi> and humbly prayed him to take their Infor<g ref="char:EOLhyphen"/>mations upon Oath, but he deſired to be excuſed, alledging, that it ſeemed a matter of State, and that it was not proper for his Cognizance: They make an attempt alſo upon Mr. <hi>Juſtice Dewy,</hi> who uſed the ſame Plea; but yet turn<g ref="char:EOLhyphen"/>ing every Stone, they got an <hi>Affidavit</hi> lodged at laſt with Sir <hi>James Butler,</hi> who owned before the <hi>Council-Board, Novemb.</hi> 2. 1679. that he took an <hi>Af<g ref="char:EOLhyphen"/>fidavit</hi> of <hi>Lane</hi> about <hi>Buggery charged</hi> upon Mr. <hi>Oates,</hi> and that a woman came with the ſame <hi>Lane</hi> to him.</p>
+               <p>Theſe Informations were the life and ſoul of the whole Intrigue; into which they had emptied whatever of malice they had conceived againſt the Doctor, or of affection to their grand Patron the Earl of <hi>Danby;</hi> and that I may not be wanting to the full ſatisfaction of the Inquiſitive, I ſhall give them a view of all thoſe Informations, which they kept ready cut and dryed for ſervice upon all occaſions.</p>
+               <q>
+                  <floatingText xml:lang="eng">
+                     <body>
+                        <div type="statement">
+                           <head>[Numb. 1.] <hi>The Information of</hi> Thomas Knox <hi>ſworn before me this <gap reason="blank" extent="1 word">
+                                    <desc> _____ </desc>
+                                 </gap> day of</hi> 
+                              <gap reason="blank" extent="1 word">
+                                 <desc> _____ </desc>
+                              </gap> 1679.</head>
+                           <p>THIS Informant doth upon his Oath declare, that on the firſt of this pre<g ref="char:EOLhyphen"/>ſent <hi>April,</hi> there came one <hi>William Osborne</hi> to the Informant in the <hi>Painted-Chamber</hi> in <hi>Weſtminſter,</hi> and told to him the ſaid Informant, that he had ſomething of moment to reveal to him; and did alſo deſire the Informant to go with him into the Abby, and he would reveal it to him; upon which the ſaid <hi>Osborne,</hi> and the Informant being together, the ſaid <hi>Osborne</hi> did tell the Informant, that his conſcience was mightily troubled for that he found the <hi>Lord Treaſurer</hi> was maliciouſly proſecuted by Mr. <hi>Oates</hi> and Mr. <hi>Bedlow,</hi> for that he having been a ſervant to Mr. <hi>Oates,</hi> and had often heard Mr. <hi>Oates</hi> and Mr. <hi>Bedlow</hi> conſult together, in Mr. <hi>Oates</hi> his Chamber in <hi>Whitehall,</hi> and reſolve how they might contrive a way whereby to deſtroy my <hi>Lord Treaſurer:</hi> And that he had choſen to reveal this ſecret, and eaſe his conſcience to the Informant, rather than to any one elſe, becauſe he thought he would keep it ſecret, for his own ſake, becauſe he had already ſuffered by endeavouring to ſerve the ſaid <hi>Lord Treaſurer,</hi> and thereupon the ſaid <hi>Osborne</hi> ſhewed to the Informant ſome Papers written, as he told the Informant, all in his own hand, and which were relating to the ſaid <hi>Lord Treaſurer,</hi> upon which the ſaid Informant told the ſaid <hi>Osborne,</hi> that he was no ſervant of the ſaid <hi>Lord Treaſurers,</hi> and did not there<g ref="char:EOLhyphen"/>fore deſire to meddle in it; and that particularly, becauſe he had never ſpoke with the ſaid <hi>Osborne</hi> before, and deſired to be excuſed; upon which the ſaid <hi>Osborne</hi> did preſs the Informant, and withall did tell him, that if he did not aſſiſt him in this Affair, it was reſolved both by him, and one Mr. <hi>Lane,</hi> that they would come in on the day of the ſaid <hi>Lord Treaſurers</hi> Tryal, and declare the truth concerning what they knew, concerning the malicious Deſign of the ſaid Mr. <hi>Oates</hi> and Mr. <hi>Bedlow,</hi> againſt the ſaid <hi>Lord Treaſurer;</hi> for that they could not reſt for fear he ſhould ſuffer innocently, whilſt they could with ſo good a con<g ref="char:EOLhyphen"/>ſcience, as they thought, ſave him: And the ſaid <hi>Osborne</hi> did withall declare, that the aforeſaid Mr. <hi>Lane</hi> was reſolv'd to ſpeak to the Informant, upon the fore<g ref="char:EOLhyphen"/>ſaid matter: And the ſaid <hi>Lane</hi> did accordingly upon the ſaid firſt of <hi>April,</hi> in the evening, meet the Informant, and ſhewed him ſome Papers, wherein he had taken ſeveral memorials, relating to His <hi>Majeſty,</hi> the <hi>Queen,</hi> my <hi>Lord Trea<g ref="char:EOLhyphen"/>ſurer,</hi>
+                              <pb n="8" facs="tcp:97234:9"/>
+and ſeveral other perſons, and did withall declare to the Informant, that his conſcience was ſo troubled to ſee the malicious proceedings of the ſaid Mr. <hi>Oates</hi> and <hi>Bedlow</hi> againſt the ſaid <hi>Lord Treaſurer,</hi> that he could not reſt in his bed, until he had diſburdened it, by telling the Truth; and if he had not met with this Informant, he was reſolved to declare it ſpeedily to ſome one elſe, or come himſelf at the day of the ſaid <hi>Lord Treaſurers</hi> Trial, and there declare all that he knew relating to that Affair, and did withal conjure the Informant, as alſo the ſaid <hi>Osborne,</hi> to keep all they had told him ſecret; for if it ſhould come to the Ears of the ſaid Mr. <hi>Oates</hi> and <hi>Bedlow,</hi> they would endeavour to poiſon, or murder them, the ſaid <hi>Osborne</hi> and <hi>Lane,</hi> the firſt time they ſhould ſee them.</p>
+                           <closer>
+                              <signed>Tho. Knox.</signed>
+                           </closer>
+                        </div>
+                     </body>
+                  </floatingText>
+               </q>
+               <p>That this information was penn'd with ſome cunning, will appear to the narrow obſerver: Let it be noted how the Informant anſwers tacitly the objections before hand, which he might eaſily foreſee would be made<hi>:</hi> It would be ſaid, how came Mr. <hi>Lane</hi> to entruſt ſo great a ſecret to you, being a meer ſtranger? This he obviates by ſaying: That <hi>Osborne choſe to reveal this ſecret to him, rather than any one elſe, becauſe he thought he would keep it ſecret for his own ſake; be<g ref="char:EOLhyphen"/>cauſe he had already ſuffered by endeavouring to ſerve the Lord Treaſurer.</hi> Again it might be objected to Mr. <hi>Knox,</hi> that he was ſo nearly related to the <hi>Lord Treaſurer,</hi> that his teſtimony ſeem'd to ſavour of partial affection: This he prevents by ſay<g ref="char:EOLhyphen"/>ing: That he was no Servant of the <hi>Lord Treaſurers,</hi> and therefore did not deſire to meddle in it: It might be objected; that this informant <hi>Knox,</hi> and <hi>Osborne,</hi> were poſſibly great Intimates, and therefore might have laid their heads together to con<g ref="char:EOLhyphen"/>trive this buſineſs againſt Dr. <hi>Oates,</hi> but this he obviates and wards off the objection by ſaying, <hi>That he had never ſpoken with</hi> Osborne <hi>before.</hi> But I proceed to the ſecond Information.</p>
+               <q>
+                  <floatingText xml:lang="eng">
+                     <body>
+                        <div type="statement">
+                           <head>[Number 2.] <hi>The Information of</hi> William Osborne <hi>and</hi> John Lane <hi>taken, &amp;c.</hi>
+                           </head>
+                           <p>THeſe Informants do voluntarily upon their Oaths declare, that on or about the beginning of <hi>March</hi> laſt Mr. <hi>Oates</hi> being at Dinner in his Chamber at <hi>Whitehall,</hi> with ſeveral other perſons, the names of whom the Informants do not well remember, the ſaid Mr. <hi>Oates</hi> did then ſay, that <hi>Wee</hi> (which was his frequent way of mentioning the King) have not gone to bed ſober this four years, and that <hi>Wee</hi> did never uſe to do ſo before this <hi>French Bitch</hi> came over, (which was his uſual way of mentioning the <hi>Du<gap reason="illegible" resp="#UOM" extent="1 letter">
+                                    <desc>•</desc>
+                                 </gap>cheſs of Portſmouth.)</hi> And the ſaid Mr. <hi>Oates</hi> falling into diſcourſe concerning Mr. <hi>Cheffins,</hi> ſaid, that Mr. <hi>Cheffins</hi> was a fit com<g ref="char:EOLhyphen"/>panion for the King, but he ſhould not be ſo for him, for that he is a pittiful beggarly Rogue, and the firſt-born Son of a Whore, and that his Father was a Pimp, and his Mother a common Bawd: And the ſaid <hi>John Lane</hi> can teſtifie that the ſaid Mr. <hi>Oates</hi> did at the ſame time ſay, That the King had kiſſed Mr. <hi>Cheffins</hi> his Tool. And that the ſaid Informants having been one day abuſed by the ſaid Mr. <hi>Oates,</hi> and deſiring therefore to depart from him; the ſaid Mr. <hi>Oates</hi> then told the Informants, that though they might perhaps know ſomething prejudicial, to ſay againſt him, yet he did not fear what they could do or ſay, for that the Houſe of Commons, and the whole Kingdom, would be of his ſide, and believe his word, before their Oaths. Theſe Informants do farther upon their Oaths declare, that the ſaid Mr. <hi>Oates</hi> is ſo wicked and lewd a man, that they could not endure to live longer with him, for that he is either perpetually calling them baſe and ſcandalous names, or elſe endeavouring to feel them by the Members, &amp; lewdly kiſſing them; for which cauſe, and abhorrency of what might follow, they durſt never remain long alone with him, but were willing to leave him at the firſt opportunity.</p>
+                           <closer>
+                              <signed>
+                                 <list>
+                                    <item>William Osborne.</item>
+                                    <item>John Lane.</item>
+                                 </list>
+                              </signed>
+                           </closer>
+                           <postscript>
+                              <p>
+                                 <hi>I do believe this to be</hi> Osborns <hi>hand;</hi>
+                              </p>
+                              <closer>
+                                 <signed>Tho. Knox.</signed>
+                              </closer>
+                           </postscript>
+                        </div>
+                     </body>
+                  </floatingText>
+               </q>
+               <pb n="9" facs="tcp:97234:9" rendition="simple:additions"/>
+               <p>The Matters of this Information are ſo offenſive to Pious Ears, and ſcandalous to others, that it had been unpardonable to exemplifie them, but that their Falſe<g ref="char:EOLhyphen"/>hood is their own Antidote; and whoever knows Dr. <hi>Oates</hi> muſt confeſs him a perſon who has learnt the moderation of the Tongue to that exactneſs, that he could not poſſibly be guilty of ſuch Extravagancies; all the good that I know in them is this, That the Incredibility of theſe Stories will teach us to bear little Faith to the Teſtimonies of <hi>Oſborn</hi> and <hi>Lane</hi> in other Caſes, even when they would ob<g ref="char:EOLhyphen"/>trude upon our Belief more modeſt and plauſible Falſehoods.</p>
+               <p>A few Remarks ſhall diſcharge the Reader of this lewd Information.</p>
+               <p>And firſt, It appears that the Conſciences of <hi>Oſborn</hi> and <hi>Lane</hi> were of the ſame elevation to a degree, to a minute, that they both <hi>ſwore in a Quill;</hi> how elſe could they jump in that Expreſſion; <hi>Several other perſons whoſe Names the Infor<g ref="char:EOLhyphen"/>mants do not well remember.</hi> It was a myſterious Union of Souls, that neither ſhould remember <hi>one</hi> perſon in the Company, but withal it was prudently fore<g ref="char:EOLhyphen"/>ſeen; for had they mentioned any one ſingle perſon there upon the place, that per<g ref="char:EOLhyphen"/>ſon they knew well would have routed the main Body of their Information. But that which ſatisfies the World that 'twas meer Confederacy, is, That they ſhould both remember or forget to a Hairs breadth; <hi>they do not well remember!</hi> and this will prove them very unfit Inſtruments for a cleaver Lye, ſeeing they had ſo bad Memories.</p>
+               <p>A ſecond thing is this, That it will appear in the ſequel of their Informations taken upon Oath, that whereas he was now prepared to ſwear, That the word <hi>Wee,</hi> which theſe Informants would make to refer to the King, if it referred to any, was to another perſon of whom it was too great, but too horrid a Scan<g ref="char:EOLhyphen"/>dal.</p>
+               <q>
+                  <floatingText xml:lang="eng">
+                     <body>
+                        <div type="statement">
+                           <head>[Number 3.] <hi>The Information of</hi> W. Osborn, <hi>Gent. ſworn before me this <gap reason="blank" extent="1 word">
+                                    <desc> _____ </desc>
+                                 </gap> day of</hi> 
+                              <gap reason="blank" extent="1 word">
+                                 <desc> _____ </desc>
+                              </gap> 1679.</head>
+                           <p>THis Informant doth upon his Oath declare, That Mr. <hi>Oates</hi> and Mr. <hi>Bedlow</hi> held ſeveral Conſultations, conſpiring how or which way they could contrive ſomething whereby to make my Lord Treaſurer appear a Traytor, and thereby to deſtroy him, and that particularly on or about the beginning of <hi>February</hi> laſt; when Mr. <hi>Bedlow</hi> being in Mr. <hi>Oates</hi>'s Chamber in <hi>White-Hall,</hi> and then being in ſome Diſ<g ref="char:EOLhyphen"/>courſe concerning the Lord Treaſurer, the ſaid Mr. <hi>Oates</hi> did then, in the hearing of the Informant, declare to the ſaid Mr. <hi>Bedlow,</hi> That he did not doubt but to bring it to paſs, that the Lord Treaſurer ſhould be tryed for his life amongſt the reſt of the Lords then in the <hi>Tower,</hi> for he would be revenged on him for adviſing the King againſt him and the aforeſaid Mr. <hi>Bedlow,</hi> to which the ſaid Mr. <hi>Bedlow</hi> did give him Conſent and Aſſiſtance.</p>
+                           <p>And not long after the Contrivance before-mentioned held between the ſaid Mr. <hi>Oates</hi> and Mr. <hi>Bedlow,</hi> Mr. <hi>Bedlow</hi> came to Mr. <hi>Oates</hi>'s Chamber, in <hi>White-Hall,</hi> and there did ſay, That he had now found out a way to do the ſaid Lord Treaſu<g ref="char:EOLhyphen"/>rer's buſineſs, and that he had been lately with the Lord Treaſurer, with an order for Money, and that he had ſince contrived with himſelf that he would now ſwear that the Lord Treaſurer had offered him Money to go beyond Sea, and thereby quaſh his Evidence; and the ſaid Mr. <hi>Bedlow</hi> did alſo at the ſame time ſay, that, <hi>I will warrant you</hi> (at the ſame time ſpeaking to Mr. <hi>Oates) this will do the Rogue's Buſineſs for him,</hi> and the ſaid Mr. <hi>Oates</hi> did at the ſame time reply, <hi>You could ne<g ref="char:EOLhyphen"/>ver have thought of a more complete and dextrous way than this of doing it,</hi> and this the Informant doth aver was all ſaid in his hearing.</p>
+                           <closer>
+                              <signed>W. Osborn.</signed>
+                           </closer>
+                        </div>
+                     </body>
+                  </floatingText>
+               </q>
+               <p>The third Information carries its own Confutation in its Fore-head, (and it's great pity that all falſe Accuſers have not their Crimes engraven there with a hot Iron) for how bereft of their Underſtandings muſt Dr. <hi>Oates</hi> and Captain <hi>Bed<g ref="char:EOLhyphen"/>low</hi> be ſuppos'd, that would contrive this Villany againſt the Lord Treaſurer, in the hearing of a ſhabby Servant, who for Bread came into his Service, and for bet<g ref="char:EOLhyphen"/>ter
+<pb n="10" facs="tcp:97234:10"/>
+Fare would quit it at a days warning? It had been equally credible, had <hi>Osborn</hi> ſworn that they had proclaimed it by the Common Cryer, for ſuch is every tem<g ref="char:EOLhyphen"/>porary Servant preſumed to be, who only waits to make his Market, and mend his Condition upon the next offer of advantages.</p>
+               <q>
+                  <floatingText xml:lang="eng">
+                     <body>
+                        <div type="statement">
+                           <head>[Number 4.] <hi>The Information of</hi> John Lane, <hi>ſworn before me this <gap reason="blank" extent="1 word">
+                                    <desc> _____ </desc>
+                                 </gap> day of</hi> 
+                              <gap reason="blank" extent="1 word">
+                                 <desc> _____ </desc>
+                              </gap> 1679.</head>
+                           <p>THis Informant doth voluntarily upon his Oath declare, That on or about the firſt of <hi>March</hi> laſt, that Mr. <hi>Oates</hi> and Mr. <hi>Bedlow</hi> being in a Conſult toge<g ref="char:EOLhyphen"/>ther in Mr. <hi>Oates</hi>'s Chamber, in <hi>White-Hall,</hi> the ſaid Mr. <hi>Oates</hi> and Mr. <hi>Bedlow</hi> did call in the Informant into the ſaid Chamber, and demanded of him, Whether any one belonging to my Lord Treaſurer had been tampering with him, or offering him Money to reveal to them what the ſaid Mr. <hi>Oates</hi> and Mr. <hi>Bedlow</hi> had deſign<g ref="char:EOLhyphen"/>ed or contrived to ſay or do againſt the ſaid Lord Treaſurer; whereupon the ſaid Informant did then declare to them, the ſaid Mr. <hi>Oates</hi> and Mr. <hi>Bedlow,</hi> That there never had been any ſuch thing offered him; upon which Anſwer of the Infor<g ref="char:EOLhyphen"/>mant, the ſaid Mr. <hi>Oates</hi> and Mr. <hi>Bedlow</hi> did encourage the ſaid Informant, if hereafter any ſuch Overture ſhould be made of Monies, that he ſhould reveal it un<g ref="char:EOLhyphen"/>to them, and they would make uſe of it to the ruine of the ſaid Lord Treaſurer, and they would withal give him ſuch Inſtructions how to manage this Affair, that the Informant ſhould receive the Monies offered him, for his own uſe, and tell the perſons with whom he treated nothing but Lyes, which they would readily inſtruct him in, and let the World ſay what it would, the ſaid Mr. <hi>Oates</hi> and Mr. <hi>Bedlow</hi> vowed to the Informant to ſtitch the ſaid Lord Treaſurer's Arſe, and to do his bu<g ref="char:EOLhyphen"/>ſineſs for him if they lived.</p>
+                           <closer>
+                              <signed>John Lane.</signed>
+                           </closer>
+                           <postscript>
+                              <p>I do believe this to be <hi>Lane</hi>'s hand.</p>
+                              <closer>
+                                 <signed>Tho. Knox.</signed>
+                              </closer>
+                           </postscript>
+                        </div>
+                     </body>
+                  </floatingText>
+               </q>
+               <p>This fourth Information labours under the ſame Abſurdity with the former, That Mr. <hi>Oates</hi> and Mr. <hi>Bedlow ſhould be in a Conſult together,</hi> about Miſchief, and yet call in this Informant for a Witneſs; which indeed had been all a-caſe to them who could as eaſily ſwear at a hundred Miles diſtance, as preſent in the Room; but that they ſhould adviſe this <hi>Lane</hi> to <hi>tell Lyes and Falſehoods,</hi> and openly threaten to <hi>do the Lord Treaſurer's work for him,</hi> was both incredible and vain, for if that Noble Perſon <hi>had not done his own work for himſelf,</hi> all the World could never have done it for him.</p>
+               <q>
+                  <floatingText xml:lang="eng">
+                     <body>
+                        <div type="statement">
+                           <head>[Number 5.] <hi>The Information of</hi> W. Osborn, <hi>Gent. ſworn before me this <gap reason="blank" extent="1 word">
+                                    <desc> _____ </desc>
+                                 </gap> day of <gap reason="blank" extent="1 word">
+                                    <desc> _____ </desc>
+                                 </gap>
+                              </hi>
+                           </head>
+                           <p>THis Informant doth voluntarily upon his Oath declare, That on or about the firſt of <hi>March</hi> laſt, that Mr. <hi>Oates</hi> and Mr. <hi>Bedlow</hi> being alone together in Mr. <hi>Oates</hi>'s Chamber, in <hi>White-Hall,</hi> the ſaid Mr. <hi>Oates</hi> and Mr. <hi>Bedlow</hi> did call in the Informant, and did, in a wheedling manner, ask of him whether any Gentleman belonging to my Lord Treaſurer, or any other perſon, had been endeavouring to corrupt him, or offer him any Reward to reveal to them what the ſaid Mr. <hi>Oates</hi> and Mr. <hi>Bedlow</hi> had deſigned or intended to ſay or do againſt the ſaid Lord Treaſu<g ref="char:EOLhyphen"/>rer; whereupon the ſaid Informant did then proteſt to them, the ſaid Mr. <hi>Oates</hi> and <hi>Bedlow,</hi> that never any perſon whatſoever had offered to him any thing of that na<g ref="char:EOLhyphen"/>ture, upon which true Anſwer of the Informant's, the ſaid Mr. <hi>Oates</hi> and Mr. <hi>Bed<g ref="char:EOLhyphen"/>low</hi> did encourage the ſaid Informant, that if hereafter any ſuch thing ſhould be en<g ref="char:EOLhyphen"/>deavoured, either of Money or any other Reward, that he ſhould preſently reveal it unto them, and they would make ſuch uſe of it as would deſtroy the ſaid Lord Treaſurer; and they did withal give him ſuch inſtructions how to manage this whole Affair, that he might receive the monies offer'd him, for his own uſe, and
+<pb n="11" facs="tcp:97234:10" rendition="simple:additions"/>
+tell the perſon with whom he treated nothing but lyes and falſe ſtories, which they would inſtruct him readily in; and let the World imagine what it would of them, the ſaid Mr. <hi>Oates</hi> and Mr. <hi>Bedlow</hi> vowed, in the Informants preſence, to ruine the ſaid Lord Treaſurer to all intents and purpoſes.</p>
+                           <closer>
+                              <signed>William Osborne.</signed>
+                           </closer>
+                           <postscript>
+                              <p>I do conceive this to be <hi>Osborne</hi>'s hand.</p>
+                              <closer>
+                                 <signed>Tho. Knox.</signed>
+                              </closer>
+                           </postscript>
+                        </div>
+                     </body>
+                  </floatingText>
+               </q>
+               <q>
+                  <floatingText xml:lang="eng">
+                     <body>
+                        <div type="statement">
+                           <head>[Number 6.] <hi>Several Memorials of</hi> John Lane, <hi>and</hi> William Osborne's, <hi>delivered</hi> April 2. 1679. Memorial 1.</head>
+                           <p>ABout the time when Mr. <hi>Coleman</hi> was tryed for his Life, and Mr. <hi>Titus Oates</hi> did impeach the <hi>Queen,</hi> and was therefore confined to his Chamber, and no body ſuffered to ſpeak to him in private, his Fa<g ref="char:EOLhyphen"/>ther and I coming about Eight a Clock at Night from <hi>Weſtminſter-Hall,</hi> he bid me, if poſſible I could ſpeak to his Son, deliver him words from him to this pur<g ref="char:EOLhyphen"/>poſe, that he ſhould not fear, nor be daunted, but chear up, and Impeach the Woman, ſince he ſo well knew that Mr. <hi>Bedlow</hi> was reſolved to aſſiſt him in his E<g ref="char:EOLhyphen"/>vidence againſt her. (which Woman Old Mr. <hi>Oates,</hi> Father to Mr. <hi>Titus Oates,</hi> did explain afterwards to me to be the Queen) This was written by me, and copied by <hi>George Neal,</hi> who then ſerved Mr. <hi>Titus Oates,</hi> and who told me he delivered thoſe words in writing under a Diſh of Meat to Mr. <hi>Titus Oates,</hi> who privately put it in his Pocket. This I took notice of, becauſe we all then thought, and Mr. <hi>Oates</hi> told us, that he had no body to aſſiſt him in the Evidence againſt the Queen.</p>
+                           <closer>
+                              <signed>John Lane.</signed>
+                           </closer>
+                           <postscript>
+                              <p>I do believe this to be <hi>Lane</hi>'s hand.</p>
+                              <closer>
+                                 <signed>Tho. Knox.</signed>
+                              </closer>
+                           </postscript>
+                        </div>
+                     </body>
+                  </floatingText>
+               </q>
+               <p>Theſe Memorials were the firſt Papers which <hi>Lane</hi> and <hi>Osborne</hi> ſhewed to <hi>Knox</hi> upon their firſt meeting (as they have ſaid it in their Notes,) but in truth, were the contrivance of <hi>Knox,</hi> out of which they might form their <hi>Affidavits,</hi> when mat<g ref="char:EOLhyphen"/>ters were ripe.</p>
+               <p>The Deſign of it ſeems firſt to make the Father as wiſe as the Son, that is, nei<g ref="char:EOLhyphen"/>ther of them to have more Wit than they were born with; that an Ancient Gen<g ref="char:EOLhyphen"/>tleman who had ſeen ſo much of the world as he had done, and well knew under what Circumſtances his Son then was, ſhould reveal his evil deſigns, if he had any, to a Servant, is ſomething more than <hi>improbable,</hi> that is, <hi>incredible:</hi> But the main deſign was to intimate, that Mr. <hi>Oates</hi> was but a ſingle Teſtimony in the caſe, till Mr. <hi>Bedlow</hi> by Conſpiracy came in to ſtrengthen him.</p>
+               <q>
+                  <floatingText xml:lang="eng">
+                     <body>
+                        <div type="statement">
+                           <head>
+                              <hi>Memorial</hi> 2.</head>
+                           <p>WHen the Queen uſed to go to <hi>Somerſet-Houſe</hi> to Chappel, and the Drums beat at her going by, Mr. <hi>Oates</hi> uſed frequent<g ref="char:EOLhyphen"/>ly to go to the Window to ſee her, he would then frequently ſay, where is our Gammer, or our Dame Short-Arſe going now? She is going to <hi>Godfrey-Hall,</hi> I'le warrant you, amongſt the reſt of the Crew, to ſay Maſs, <hi>&amp;c.</hi> but I will warrant you ſhe will not go long there: This was his uſual contemptuous way of ſpeaking of the Queen when ever he ſaw her; and this we have ſeveral times took parti<g ref="char:EOLhyphen"/>cular notice of to one another.</p>
+                           <closer>
+                              <signed>
+                                 <list>
+                                    <item>John Lane.</item>
+                                    <item>William Osborne.</item>
+                                 </list>
+                              </signed>
+                           </closer>
+                           <postscript>
+                              <p>I do believe this to be <hi>Lane</hi>'s and <hi>Osborne</hi>'s hands.</p>
+                              <closer>
+                                 <signed>Tho. Knox.</signed>
+                              </closer>
+                           </postscript>
+                        </div>
+                     </body>
+                  </floatingText>
+               </q>
+               <p>The Scandalous Expreſſions herein falſly imputed to Dr. <hi>Oates</hi> ſtrike not at the main of the Cauſe, but were forged to draw the diſpleaſure of their Majeſties up<g ref="char:EOLhyphen"/>on him, under which prejudices they knew he muſt needs ſink, if once they made the deſired Impreſſions upon their Royal Breaſts<hi>:</hi> but the diſcerning Spirit of his Majeſty would ſoon look through theſe Cobwebs; nor do we find that Dr. <hi>Oates</hi> ſuffer'd in the gracious thoughts of his Majeſty.</p>
+               <pb n="12" facs="tcp:97234:11"/>
+               <q>
+                  <floatingText xml:lang="eng">
+                     <body>
+                        <div type="statement">
+                           <head>
+                              <hi>Memorial</hi> 3.</head>
+                           <p>A little after the Election for Parliament-men in <hi>Tuttle-fields,</hi> his Majeſty ſent one of his Officers to <hi>Mr. Titus Oates,</hi> with Com<g ref="char:EOLhyphen"/>mands not to go out of <hi>White-Hall</hi> and S. <hi>James</hi>'s Park without leave, which Mr. <hi>Oates</hi> did promiſe upon the Faith of a Miniſter punctually to obey<hi>:</hi> yet notwith<g ref="char:EOLhyphen"/>ſtanding his promiſe he went out the ſametime, and went privately to <hi>Southwark</hi> in a Coach, with us in his company; and when he came there, great Multitudes of people flock'd after him, and there he made Speeches to the Rabble, deſiring them to chuſe whom he would recommend, which ſhould be one that was his Counſel, and aſſiſted him in ſaving the Nation, and that they were beholding to him for all their ſafeties; and he was ſure that this man (who was Mr. <hi>Smith)</hi> would ſtand up for the Cauſe, and defend their Liberties. This was ſaid in our hearing, and we took notice of it, becauſe he met with one Mr. <hi>Collier,</hi> of the Guard of Yeomen, and bid him be ſecret, and not tell that he ſaw him abroad, and gave him a Bottle of Sack; and this he hath done ſeveral other times after he hath engaged not to go without the King's leave.</p>
+                           <closer>
+                              <signed>
+                                 <list>
+                                    <item>John Lane.</item>
+                                    <item>W. Osborne.</item>
+                                 </list>
+                              </signed>
+                           </closer>
+                           <postscript>
+                              <p>I do believe this to be <hi>Lane</hi>'s and <hi>Osborne</hi>'s hands.</p>
+                              <closer>
+                                 <signed>Tho. Knox.</signed>
+                              </closer>
+                           </postscript>
+                        </div>
+                     </body>
+                  </floatingText>
+               </q>
+               <p>Had this been true, it had been in it ſelf neither Fellony nor Treaſon, the great<g ref="char:EOLhyphen"/>eſt Account it could turn to, was obliquely to wound his Reputation, whom they had repreſented, as a perſon whoſe Evidence muſt be of no weight, ſeeing he had falſifyed in a promiſe made to his Majeſty in <hi>verbo ſacerdotis;</hi> but the Inno<g ref="char:EOLhyphen"/>cency of the Doctor has ſcattered thicker Clouds of Obloquy and Slander, than this wretched Calumny.</p>
+               <q>
+                  <floatingText xml:lang="eng">
+                     <body>
+                        <div type="statement">
+                           <head>The Information of <hi>John Lane</hi> ſworn this <gap reason="blank" extent="1 word">
+                                 <desc> _____ </desc>
+                              </gap> day of <gap reason="blank" extent="1 word">
+                                 <desc> _____ </desc>
+                              </gap> 
+                              <hi>1679.</hi>
+                           </head>
+                           <p>THis Informant doth voluntarily upon his Oath declare, That on or about the <hi>24th</hi> or <hi>25th</hi> of <hi>March</hi> laſt, about 7 of the Clock in the morning, Mr. <hi>Titus Oates</hi> ſent all his Servants to the King's Chappel in <hi>White-Hall,</hi> except this Infor<g ref="char:EOLhyphen"/>mant; and when they were all gone to Chappel he call'd this Informant in to him, to help to dreſs him, and as ſoon as the Informant had put on the ſaid Mr. <hi>Oates</hi>'s Breeches, and Stockins, and Morning-Gown, he took this Informant into his Bed-Chamber, and there he told the Informant, That he muſt take his Penance<hi>:</hi> where<g ref="char:EOLhyphen"/>upon he made the Informant lye down upon the Bed with his Breeches down, and gave him nine laſhes with a laſh of three ſmall Ropes with a knot at each end, which he uſually kept in his Pocket for that purpoſe, (which uſage the Informant durſt not deny leſt he ſhould call to the Sentinel to take hold of him, and ſay to the ſaid Sentinel, That the Informant would have offered Violence to him, which was his uſual way of threatning the Informant, if he durſt at any time reſiſt his Cruel Uſage) and after he had ſeverely laſh'd him, he took the ſaid Informant by the hand, and clapt his hand eagerly about his Neck and kiſs'd him, and put his hand into the Codpiece of the Informant's Breeches, and took him by the Privy-Mem<g ref="char:EOLhyphen"/>bers, and ſaid that he would be Friends with the Informant; and at the ſame time when Mr. <hi>Oates</hi>'s hand was in the Informant's Breeches, and held him by the Members, the ſaid Mr. <hi>Oates</hi> unbutton'd the Informant's Breeches with the other hand, and commanded and forced with an angry Countenance with his hand the Informant to lye down upon his Belly upon the Bed, and the ſaid Mr. <hi>Oates</hi> lay'd down by the Informants ſide, and told the Informant, that he had a mind to ſee whether his back-ſide were flea'd enough, and when he ſaw that it look'd red, he took the Informant about the middle, and kiſs'd him in a laſcivious manner; and at the ſame time the ſaid Mr. <hi>Oates</hi> thruſt his Belly againſt the ſaid Informant's ſide, and did with his naked Privy-Members preſs the ſaid Informant's Body hard: and the ſaid Informant doth further upon his Oath declare, had not a VVoman that was ſweeping the next Room kept a noiſe (which made him think the reſt of the Ser<g ref="char:EOLhyphen"/>vants were come from Prayers) he would grievouſly have abuſed the Body of the
+<pb n="13" facs="tcp:97234:11" rendition="simple:additions"/>
+Informant, and would certainly have bugger'd him; and the Informant durſt not cry out, for fear of being ſeiz'd by the Sentinels, as aforeſaid; and this the ſaid Informant doth ſwear he had tempted to do ſeveral other times before.</p>
+                           <closer>
+                              <signed>John Lane.</signed>
+                           </closer>
+                           <postscript>
+                              <p>I do believe this to be <hi>Lane</hi>'s hand.</p>
+                              <closer>
+                                 <signed>Tho. Knox.</signed>
+                              </closer>
+                           </postscript>
+                        </div>
+                     </body>
+                  </floatingText>
+               </q>
+               <p>The Information ſubſcribed by <hi>Lane,</hi> as <hi>Knox</hi> teſtifies under his own hand, was after ſome time made upon Oath before Sir <hi>James Butler;</hi> for ſo <hi>Lane</hi> himſelf con<g ref="char:EOLhyphen"/>feſſes before the Council, <hi>Novemb.</hi> 4. 1679. for which ſee Col. <hi>Manſell</hi>'s Narrative, p. 64. and Sir <hi>James Butler</hi> himſelf owns the taking an <hi>Affidavit</hi> of <hi>Lane,</hi> about Buggery, charg'd upon Mr. <hi>Oates, November</hi> the ſecond, ſee the <hi>ſame Narrative,</hi> pag. 50.</p>
+               <p>In which Information <hi>Lane</hi> acted both maliciouſly againſt Dr. <hi>Oates,</hi> and wa<g ref="char:EOLhyphen"/>rily for himſelf; for though he had a great mind the Doctor's Perſon and Evidence ſhould be ſoundly <hi>diſparaged,</hi> yet he loved himſelf too well to be <hi>hang'd;</hi> and therefore he lays the Crime not to be <hi>committed,</hi> (which would have ſtretch'd his own Neck,) but only <hi>attempted,</hi> which was enough to throw Dirt upon the Do<g ref="char:EOLhyphen"/>ctor's Converſation, and blemiſh his Teſtimony.</p>
+               <p>Now becauſe a Crime of ſo high and horrid guilt, ſo contrary to Nature, and above the common Standard of Villanies, would never gain credit amongſt thoſe who knew the former method of the Doctors Converſation, they had drawn the Information with ſo good advice, that there was an Anſwer inſinuated to the com<g ref="char:EOLhyphen"/>mon Objections that might be made againſt the truth of it: As firſt, <hi>why did not</hi> Lane <hi>cry out for help upon the Attempt made upon him?</hi> to this you are furniſh'd with an Anſwer, it was this, <hi>The Informant durſt not cry out for fear of being ſeized by the Sentinels.</hi> It ſeems he was more afraid of the Sentinels than of the Gallows. But it might be asked, <hi>Why was not the Fact committed as well as attempted?</hi> to this he hints a fine Anſwer; that <hi>had not a Woman that was ſweeping kept a noiſe (which made him think the reſt of the Servants were come from Prayers) he would grievouſly have abuſed the Body of the Informant.</hi> This old Woman was indeed handſomely contrived, and ſo the Poets introduce ſome God from Heaven to ſalve all Difficulties, when their own Plots have render'd matters intricate; but ſhould we ask <hi>Lane,</hi> how the Doctors ſevere whipping and laſhing him with Cords was a proper inducement to <hi>Lane</hi>'s yielding to his Luſt, which certainly would have raiſ<g ref="char:EOLhyphen"/>ed other paſſions, and why he did not ſwear that Dr. <hi>Oates</hi> gave him <hi>Sweet meats,</hi> rather than ſuch ſevere Penance. I know not what he would anſwer, but that it was an errour, and they will rectifie it in the next Information.</p>
+               <p>It is now time, having exemplified all the <hi>Letters, Informations, and Memori<g ref="char:EOLhyphen"/>als</hi> which were drawn up by themſelves, and kept ready to ſerve the occaſion, to proceed to thoſe Informations which were taken upon Oath before ſome or other of his Majeſties Juſtices for the Peace; only I muſt leave this Advertiſement, That the <hi>four Letters,</hi> the <hi>ſix Informations,</hi> and the Paper containing <hi>three Memorials,</hi> all of them here tranſcribed and compared, were by <hi>Knox</hi> delivered into the hands of Sir <hi>William waller,</hi> and <hi>Mr. Juſtice Warcup,</hi> as he owns upon his Oath before the ſaid Gentlemen.</p>
+               <q>
+                  <floatingText xml:lang="eng">
+                     <body>
+                        <div type="examination">
+                           <head>
+                              <hi>The Examination of</hi> Thomas Knox, <hi>lately Servant to the Lord</hi> Dumblane, <hi>be<g ref="char:EOLhyphen"/>fore us Sir</hi> William Waller, <hi>and</hi> Edmund Warcup, <hi>Eſquire, two of his Majeſty's Juſtices of the Peace for the County of</hi> Middleſex, <hi>and City and Li<g ref="char:EOLhyphen"/>berties of</hi> VVeſtminſter, <hi>taken by us by Vertue of an Order of the</hi> Com<g ref="char:EOLhyphen"/>mittee <hi>of</hi> Lords.</head>
+                           <p>This Examinant ſaith, That on the <hi>1ſt</hi> of <hi>April,</hi> walking in the painted Chamber, <hi>W. Osborne</hi> came to him and told him, that he being informed that he had lived in the E. of <hi>Danby</hi>'s Family for ſome time, he had ſomething of moment to commu<g ref="char:EOLhyphen"/>nicate to him, which might be a means to ſave the Lord Treaſurer, where<g ref="char:EOLhyphen"/>upon
+<pb n="14" facs="tcp:97234:12"/>
+this Examinant walked with the ſaid <hi>Osborne</hi> into the <hi>Abby;</hi> being in the <hi>Abby, Osborne</hi> delivered Papers drawn up by way of Information, being five in number, none of them bearing any date, and one Paper of ſeveral Memorials of <hi>John Lane,</hi> and <hi>William Osborne:</hi> The next day they brought him to the <hi>Cloyſters</hi> in <hi>Weſtminſter-Abby,</hi> ſeveral meetings they had afterwards, and four Letters they wrote to him: About the fifth of <hi>April</hi> they went together to Mr. <hi>Cheyney</hi> at <hi>Chel<g ref="char:EOLhyphen"/>ſey,</hi> one of his Majeſties Juſtices of the Peace; but he told them, the buſineſs being of an high nature, and matter of State, he deſired to be excuſed: About a fortnight after, this Examinant went to Mr. <hi>Dewe,</hi> upon the ſame Errand, and received the like Anſwer as Mr. <hi>Cheyney</hi> had done; not long after he went likewiſe to Mr. Secretary <hi>Coventrey,</hi> who told him, that he being a Member of the Houſe of Commons, by whom the ſaid Lord Treaſurer had been Impeached, he could not meddle in that buſineſs: None of the forementioned Gentlemen, his Majeſties Juſtices of the Peace, had a ſight of any of the Papers, but only upon the Infor<g ref="char:EOLhyphen"/>mation (which this Examinant made in his own Name) they, and Mr. Secretary <hi>Coventrey,</hi> made the ſame Anſwer.</p>
+                           <p>This Examinant being ſomething ſcrupulous in medling in the buſineſs, they told him, that they had been with Captain <hi>Thuar</hi> formerly, and had acquainted him with this buſineſs; and that he had adviſed them, it being a nice buſineſs, to let it alone, till the heat of the Parliament ſhould be a little over: About a fort<g ref="char:EOLhyphen"/>night after that, <hi>Will. Osborne</hi> and <hi>John Lane</hi> had communicated theſe matters to the Examinant, they complaining that they knew not where conveniently to lodge, this Examinant told them he would endeavour to find them Lodgings; and the very ſame day, by the direction of the Lord <hi>Dunblain</hi>'s Coach-man, went to the <hi>Sugar-Loaf</hi> in <hi>Pickadilly,</hi> and took Lodgings on his own account, for him<g ref="char:EOLhyphen"/>ſelf, and two of his Friends, and lay there with them. At the time of their going from the ſaid Lodgings, which was four or five days at moſt, the ſaid <hi>Osborne</hi> and <hi>Lane</hi> paid to this Examinant two Shillings a-piece; and during the time that this Examinant was with them, they conſtantly paid their Club. This Examinant further ſaith, that he hath communicated this buſineſs to the Lord <hi>Latimere,</hi> and that he had given the Papers before-mentioned into his hands to be peruſed, which he hath now delivered into our Cuſtody<hi>:</hi> He likewiſe declares neither to have ſeen or heard of any body coming to them from the Lords in the <hi>Tower,</hi> or knoweth of their ever having been at the <hi>Tower.</hi> And further, this Examinant ſaith, that he never directly or indirectly did ſupply the ſaid <hi>Osborne</hi> or <hi>Lane</hi> with any money, or made them any promiſe of Reward whatſoever; only he confeſ<g ref="char:EOLhyphen"/>ſeth, that at the <hi>Tun-Tavern</hi> in S. <hi>Martin</hi>'s Lane, he flung down a Guinney on the Table, the ſaid <hi>Lane</hi> ſaying he had no money, and promiſing to repay it; and further this Examinant ſaith not.</p>
+                           <closer>
+                              <signed>Tho. Knox.</signed>
+
+                           </closer>
+                           <postscript>
+                              <p>
+                                 <hi>Jurat. coram nobis</hi> 29. April, 1679.</p>
+                              <closer>
+                                 <signed>William Waller. Edmond Warcupp.</signed>
+                              </closer>
+                           </postscript>
+                           <postscript>
+                              <p>
+                                 <hi>Memorand.</hi> That after the aforeſaid Examination, he confeſſed to us both, that he had written a Note this Afternoon (being a Priſoner) to Mr. <hi>Osborne,</hi> to inform him, <hi>that he would be examined this afternoon,</hi> (with theſe other words) <hi>We always Clubbed, and you paid two Shillings at the</hi> Sugar-Loaf<hi>: Tear this.</hi> He likewiſe con<g ref="char:EOLhyphen"/>feſſed that he had lain in <hi>White-Fryers,</hi> being again examined, although before he had denied it.</p>
+                              <closer>
+                                 <signed>William Waller. Edmond Warcupp.</signed>
+                              </closer>
+                           </postscript>
+                        </div>
+                     </body>
+                  </floatingText>
+               </q>
+               <q>
+                  <floatingText xml:lang="eng">
+                     <body>
+                        <div type="examination">
+                           <head>
+                              <hi>[Lane</hi>'s firſt Examination.] <hi>The Examination of</hi> John Lane, <hi>Son of</hi> Richard Lane, <hi>at this time one of the Yeomen of the Guard in Extraordinary to his Majeſty, taken in obedience to an Order of the Lords of the Committee, for examining Diſcoveries relating to</hi>
+                              <pb n="15" facs="tcp:97234:12" rendition="simple:additions"/>
+                              <hi>the late Horrid Conſpiracy, before us Sir</hi> William Waller, <hi>and</hi> Edmond War<g ref="char:EOLhyphen"/>cupp, <abbr>Esq</abbr> 
+                              <hi>two of his Majeſties Juſtices of the Peace, this</hi> 29. April. 1679.</head>
+                           <p>This Examinant ſaith, that he lived with Mr. <hi>Oates</hi> nine Weeks; about the ſe<g ref="char:EOLhyphen"/>venth of <hi>April</hi> laſt he quitted <hi>Mr. Oates</hi> his ſervice; whilſt he lived with the ſaid Mr. <hi>Oates,</hi> he ſaith, he daily ſent his Servants to Morning Prayers, reſerving one only with him, to dreſs him<hi>:</hi> This Examinant ſaith, that whilſt he was his Ser<g ref="char:EOLhyphen"/>vant, he was never charged by Mr. <hi>Oates</hi> of opening any of his Letters, or of any other miſdemeanour: He further ſaith, that three Informations marked the num<g ref="char:EOLhyphen"/>bers (1) (2) (4) and the Memorial marked number (6) were written by Mr. <hi>Wil<g ref="char:EOLhyphen"/>liam Osborne,</hi> and were by this Examinant ſubſcribed, none ſaving the ſaid <hi>Osborne</hi> being preſent; and three of the Letters marked (2) (3) and (4) were written by the ſaid <hi>William Osborne,</hi> and were by this Examinants own hand ſub<g ref="char:EOLhyphen"/>ſcribed, <hi>John Lane,</hi> none elſe being preſent, and thinks that they were truly dated when written. This Examinant confeſſeth, that he, and Mr. <hi>Knox,</hi> and Mr. <hi>Os<g ref="char:EOLhyphen"/>borne,</hi> lay privately this day fortnight in <hi>White-Fryers,</hi> from the <hi>Tueſday</hi> to the <hi>Saturday</hi> following; and from thence they went and lodged in a paved Alley, lead<g ref="char:EOLhyphen"/>ing out of <hi>Chancery-Lane</hi> into <hi>Lincolns-Inn-fields,</hi> and there they reſted all the next day, which was <hi>Eaſter-day,</hi> and the Night: On <hi>Monday</hi> they removed into <hi>Picka<g ref="char:EOLhyphen"/>dilly,</hi> to the Sign of the three <hi>Sugar-Loaves,</hi> and there continued till <hi>Friday</hi> laſt, at which time he was taken. Theſe three forementioned Lodgings were taken by Mr. <hi>Knox;</hi> and this Examinant, and Mr. <hi>Osborne,</hi> deliver'd their ſhare of Charges from time to time, both for Diet and Lodging, to the ſaid Mr. <hi>Knox;</hi> and then the ſaid Mr. <hi>Knox</hi> paid all the expences to the perſons to whom it was due, but not in their preſence.</p>
+                           <p>This Examinant ſaith, that he, <hi>Mr. Knox,</hi> and <hi>Mr. Osborne,</hi> once being at the <hi>One-Tun-Tavern</hi> in <hi>St. Martins-Lane, Mr. Knox</hi> threw a Guinney on the Table, which this Examinant ſaith he took up, and put it into his Pocket, <hi>Mr. Knox</hi> then ſaying, that it <hi>ſhould never be ſaid I gave you any money.</hi> And he further ſaith, that never at any time, either <hi>Mr. Knox,</hi> or any other perſon, directly or indirectly, gave him either any money, or promiſed him any Reward whatſoever, for thus accuſing <hi>Mr. Oates;</hi> neither was he by <hi>Mr. Knox,</hi> or any other perſon, ever perſwaded to ſwear for the Lords in the <hi>Tower,</hi> or the Lord Treaſurer, and further this Exami<g ref="char:EOLhyphen"/>nation ſaith not.</p>
+                           <closer>
+                              <signed>John Lane.</signed>
+                           </closer>
+                           <postscript>
+                              <p>Jurat. corum nobis,</p>
+                              <closer>
+                                 <signed>Will. Waller. Edmund Warcupp.</signed>
+                              </closer>
+                           </postscript>
+                        </div>
+                     </body>
+                  </floatingText>
+               </q>
+               <p>Hitherto we find <hi>Mr. Lane</hi> keeps cloſe to the Cauſe, and ſtands his ground; only the Guinney dropt at the <hi>Tun-Tavern</hi> in <hi>St. Mertins-Lane,</hi> and by <hi>Mr. Lane</hi> put into his own Pocket, adminiſters ſome ſuſpicion that there was ſome practice in the buſineſs, and eſpecially thoſe words which <hi>Knox</hi> dropt with the Guinney do greatly confirm it; <hi>It ſhall never be ſaid I gave you any money.</hi>
+               </p>
+               <p>But we are now entring upon thoſe Informations which teſtifie at once <hi>Mr. Lane</hi>'s relentings, though not his repentings, and therefore I ſhall ſubjoyn two more of <hi>Mr. Lane</hi>'s Examinations, which will diſcover the depths of this Roguery; though a little out of time-order.</p>
+               <q>
+                  <floatingText xml:lang="eng">
+                     <body>
+                        <div type="examination">
+                           <head>
+                              <hi>[Lane</hi>'s ſecond Examination.] <hi>A further Examination of</hi> John Lane, <hi>Son to</hi> Richard Lane, <hi>at this time one of the Yeomen of the Guard to His Majeſty, taken by me at the earneſt ſuite and requeſt of the ſaid</hi> John Lane, <hi>this <gap reason="blank" extent="1 word">
+                                    <desc> _____ </desc>
+                                 </gap> of</hi> 
+                              <gap reason="blank" extent="1 word">
+                                 <desc> _____ </desc>
+                              </gap> 1679.</head>
+                           <p>This Examinant having been this day brought to the door of the Commitee of Lords, in order to a further Examination of what he had formerly depoſed, being
+<pb n="16" facs="tcp:97234:13"/>
+brought back to the Priſon without having appeared before the Lords; the Commit<g ref="char:EOLhyphen"/>tee having, by reaſon of the King's being come to the Houſe, adjourn'd the hear<g ref="char:EOLhyphen"/>ing of the Ex<gap reason="illegible" resp="#UOM" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>minant until <hi>Fryday</hi> morning; this Examinant being touched and pricked in his own Conſcience with a real and hearty remorſe and ſorrow for the great Guilt he had contracted, in falſely ſwearing and accuſing Mr. <hi>Oates</hi> and Mr. <hi>Bedlow,</hi> deſired one <hi>Mr. R<gap reason="illegible" resp="#UOM" extent="1 letter">
+                                    <desc>•</desc>
+                                 </gap>cks,</hi> one of the Yeomen of the Guard, to endeavour to find out Sir <hi>Will. Waller,</hi> to beg his pardon, and to let him know that he was now fully convinced of his ſin, and ſhould confeſs the whole <hi>naked truth,</hi> though he ſhould expoſe his own Reputation to ruine, rather than encreaſe his Guilt by juſti<g ref="char:EOLhyphen"/>fying of what in his own Conſcience he is convinced to be falſe.</p>
+                           <p>This Examinant declareth, that the firſt time he ever met Mr. <hi>Thomas Knox,</hi> it was at the Sign of the <hi>Hole in the Wall in Duffins Alley</hi> in <hi>Kings-ſtreet,</hi> and that there Mr. <hi>Knox</hi> adviſed him what he ſhould ſay concerning Mr. <hi>Oates,</hi> in Refe<g ref="char:EOLhyphen"/>rence to any diſcourſe either of the King, Queen, or Lord Treaſurer; that at this Examinatnt's coming to that Houſe, he was not to ask for Mr. <hi>Knox,</hi> but for the Number (3) After ſome diſcourſe there how they ſhould contrive an accuſation of Mr. <hi>Oates,</hi> The ſaid <hi>Knox</hi> gave this Examinant directions how to do it; and it be<g ref="char:EOLhyphen"/>i<gap reason="illegible" resp="#UOM" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>g late they broke up their meeting<hi>:</hi> This firſt meeting happened to be on the <hi>Tueſ<g ref="char:EOLhyphen"/>day,</hi> or <hi>Wedneſday,</hi> before he left Mr. <hi>Oates:</hi> The ſecond meeting was agreed to be at the <hi>Owle</hi> in <hi>King-ſtreet,</hi> on the <hi>Sunday</hi> following, at three of the Clock in the Af<g ref="char:EOLhyphen"/>ternoon, and whoever ſhould come firſt, ſhould ask for the Figure of (3) at the Bar, but Mr. <hi>Knox,</hi> having ſome other extraordinary buſineſs they made no ſtay, or came to any Reſolution; but appointed a third meeting, which to the beſt of this Examinant's memory was at the <hi>Kings-Armes</hi> in the <hi>Bowling-Alley:</hi> but the ſaid Mr. <hi>Knox</hi> not coming at the appointed time, the Examinant, and <hi>Osborn</hi> walked in the Cloyſters, and had not been there long but Mr. <hi>Knox</hi> came to them, whereupon, immediately they took Coach, and went directly to <hi>Chelſea,</hi> to Mr. <hi>Cheyney,</hi> where they were to ſwear ſome things againſt Mr. <hi>Oates,</hi> according to <hi>Mr. Knox</hi>'s Inſtructions, in behalf of the Lord Treaſurer<hi>:</hi> This Examinant, and the ſaid <hi>Osborn</hi> ſtayed in the Coach, whileſt <hi>Knox</hi> (as he told this Examinant, and <hi>Osborn)</hi> went to ſpeak with <hi>Mr. Cheyney,</hi> who ſtayed not very long; and at his return told them that <hi>Mr. Cheyney</hi> refuſed to meddle in the buſineſs, whereupon they return'd to <hi>White-Hall.</hi> This Examinant being yet in <hi>Mr. Oates</hi> his ſervice<hi>:</hi> The <hi>Monday</hi> following this Examinant came away from <hi>Mr. Oates;</hi> and either on that very day, or the day following, had another meeting with <hi>Knox,</hi> and <hi>Osborne</hi> at the <hi>One Tun Tavern</hi> in St. <hi>Martins-Lane,</hi> by the ſign all of the Number (3) where <hi>Knox</hi> treated this Examinant with Oyſters, and Wine; and after they had eaten their Oyſters, <hi>Mr. Knox,</hi> and <hi>Osborne,</hi> wrote out the Informations, <hi>Knox</hi> being the <hi>Dictator</hi> of them; and at the ſame time the ſaid <hi>Knox</hi> made this Exami<g ref="char:EOLhyphen"/>nant, and the ſaid <hi>Oſborne</hi> ſwear ſecreſie: what this Examinant's part was to ſwear, <hi>Knox</hi> prevail'd with <hi>Osborne</hi> to write down, becauſe the Examinant could not write a good hand. The writings being finiſht, <hi>Knox</hi> took them and put them in his pock<g ref="char:EOLhyphen"/>et and paid the reckoning, offering them before hand, if they would either eat, or drink, they might call for whatever they had a mind to; and told them, becauſe it ſhould not be ſaid, he had given them money, he would contrive in a ſhort time to convey ſome to them, and appointed the ſame place to meet at the next day by two of the clock, and according to the agreement, they all met at the ſaid place; where af<g ref="char:EOLhyphen"/>ter they had drank a Pint of Sack, he dropped a Guinney on the Table, and told them, that on the next day they ſhould have another; and after they had been by him enjoined ſecreſie, they parted: The next day <hi>Osborne</hi> (as this Examinant was told by him) he met the ſaid <hi>Knox</hi> and received a Guinney according to <hi>Knox</hi> his pro<g ref="char:EOLhyphen"/>miſe the day before; the ſame day as <hi>Osborne</hi> had received the Guinney of <hi>Knox,</hi> in the Evening <hi>Osborne</hi> came to the Examinant's Lodgings in <hi>Weſtminſter,</hi> and then told this Examinant of the Guinney he had received, and return'd him ten ſhillings, which the day before this Examinant had lent him: A day or two after
+<pb n="17" facs="tcp:97234:13" rendition="simple:additions"/>
+they had another meeting at the <hi>Green Dragon</hi> in the <hi>Pel-mel,</hi> and there din<g ref="char:EOLhyphen"/>ed, after Dinner, Mr. <hi>Osborn</hi> was deſired by <hi>Knox</hi> to write a letter, ac<g ref="char:EOLhyphen"/>cording to ſuch a manner as he would direct, and cauſed him to date the Letter of a latter date, and direct the ſaid Letter to him, which being done he put up the Letter in his Pocket; and having clubbed in the payment of the Reckoning which came to twelve pence a piece, parted for that time, ap<g ref="char:EOLhyphen"/>pointing a meeting the ſame night to be at the <hi>Roſe Tavern</hi> in the <hi>Pel-mel,</hi> to be at nine of the clock, where accordingly we met, and ſupped together, and conferred with <hi>Knox,</hi> asking how things went? to which he anſwered <hi>very well!</hi> about ten of the clock at night we parted, and came to <hi>Weſtminſter,</hi> and agreed the next day to meet in a little Alley near the <hi>Roſe-Tavern</hi> in the <hi>Pell-mel,</hi> at an <hi>Ordinary,</hi> about ſeven or eight in the evening, where we met and had a Supper, and at this Houſe <hi>Knox</hi> took the firſt lodging for this Ex<g ref="char:EOLhyphen"/>aminant and the ſaid <hi>Osborne;</hi> and lay there the ſame night. The next morn<g ref="char:EOLhyphen"/>ing after they had broke their faſt, Mr. <hi>Knox</hi> came to this Examinant and <hi>Osborne,</hi> and told them that he had provided them another lodging at the <hi>Cider-houſe</hi> in <hi>Leiceſter-fields</hi> at the ſign of the <hi>Apple-tree,</hi> and at the ſaid Cider-houſe, this Examinant and <hi>Osborne</hi> continued from <hi>Tueſday</hi> or <hi>Wedneſ<g ref="char:EOLhyphen"/>day</hi> to <hi>Saturday,</hi> during which time <hi>Knox</hi> cauſed <hi>Osborne</hi> to write him a Let<g ref="char:EOLhyphen"/>ter, as he ſhould direct him, which he did, and gave it to <hi>Knox,</hi> who con<g ref="char:EOLhyphen"/>tinually adviſed both <hi>Osborne</hi> and <hi>Knox,</hi> to ſeem to preſs him earneſtly to engage in this buſineſs; on the Saturday this <hi>Examinant</hi> and <hi>Osborne,</hi> chang<g ref="char:EOLhyphen"/>ed their lodgings which were provided for them by <hi>Knox,</hi> in a little <hi>paved Alley</hi> leading out of little <hi>Lincolnes-Inn fields</hi> into <hi>Chancery-lane,</hi> and there the ſaid <hi>Knox</hi> lay with this <hi>Examinant and Osborne,</hi> in one and the ſame bed: The next morning <hi>Knox</hi> with this <hi>Examinant</hi> and <hi>Osborne</hi> (their lodgings being paid for by <hi>Knox)</hi> went together into <hi>Whitefriers,</hi> and <hi>Knox</hi> took lodgings next door to a Muſick houſe, where they all three lodged for near a week, after which time, Mr. <hi>Knox</hi> having (as he told this Examinant) pay'd the Reckoning; This <hi>Examinant, and Osborne, and Knox,</hi> removed to their forementioned lodgings in the Paved Alley leading out of <hi>little Lincolns Inn fields</hi> into <hi>Chancery lane,</hi> and lay there <hi>Eaſter-eve</hi> till <hi>Eaſter-mon<g ref="char:EOLhyphen"/>day,</hi> whence the ſaid <hi>Knox,</hi> and <hi>Osborne,</hi> with this <hi>Examinant</hi> removed into <hi>Pickadilly</hi> to the ſigne of the <hi>three Sugar-loaves</hi> a Grocers houſe, and there this Examinant continued lodged with the ſaid <hi>Knox, and Osborne,</hi> until laſt Fryday at which time this Examinant was ſeized at his Fathers houſe at the ſign of the <hi>Wooll-pack</hi> in <hi>Weſtminſter:</hi> This Examinant farther ſaith, that all charges for diet and lodging in the ſaid reſpective places were paid, and cleared by Mr. <hi>Knox,</hi> unleſs at the <hi>Green-Dragon</hi> in the <hi>Pell-mell,</hi> and the <hi>Owle</hi> in <hi>King-ſtreet,</hi> where this <hi>Examinant</hi> and the ſaid <hi>Osborne</hi> paid their Clubs, which to the beſt of this Examinants memory did not exceed eigh<g ref="char:EOLhyphen"/>teen pence a piece. This <hi>Examinant</hi> doth further ſay that by way of en<g ref="char:EOLhyphen"/>couragement the ſaid <hi>Knox</hi> told Mr. <hi>Osborne,</hi> in his hearing, that for what he ſhould ſay in behalf of the <hi>Lord Treaſurer</hi> he ſhould be ſure of a conſider<g ref="char:EOLhyphen"/>able reward both of Money, and preferment. And the ſaid <hi>Knox</hi> did like<g ref="char:EOLhyphen"/>wiſe tell this <hi>Examinant</hi> for his encouragement that he ſhould want neither money nor a good place as long as he ſhould live<hi>:</hi> And leaſt any of theſe proceedings ſhould be diſcovered, either by <hi>William Osbrone,</hi> or this <hi>Ex<g ref="char:EOLhyphen"/>aminant,</hi> the ſaid <hi>Knox,</hi> told them, that if either of them ſhould make a diſcovery of him, he would be ſure to diſpatch them by one meanes or other, and if he ſhould diſcover then he would freely grant them the ſame liberty. This Examinant likewiſe ſaith, that <hi>Knox</hi> aſſured him, he ſhould not doubt
+<pb n="18" facs="tcp:97234:14"/>
+but that the <hi>Lords in the Tower</hi> would likewiſe own his kindneſs to them in Accuſing Mr. <hi>Oates</hi> and Mr. <hi>Bedlow:</hi> And further this <hi>Examinant</hi> ſaith not, onely humbly begs pardon from God, and of their Lordſhips for the heinous Crime he ſtands guilty of,</p>
+                           <closer>
+                              <signed>John Lane.</signed>
+                           </closer>
+                           <postscript>
+                              <p>Coram</p>
+                              <closer>
+                                 <signed>William Waller.</signed>
+                              </closer>
+                           </postscript>
+                        </div>
+                     </body>
+                  </floatingText>
+               </q>
+               <q>
+                  <floatingText xml:lang="eng">
+                     <body>
+                        <div type="examination">
+                           <head>
+                              <hi>A third Examination of</hi> John Lane <hi>taken by me this third of</hi> May, 1679.</head>
+                           <p>This <hi>Examinant having</hi> recollected himſelf further ſaith, that the very day the <hi>Lord Treaſurer</hi> came into the <hi>Black Rod,</hi> Mr. <hi>Knox</hi> made this <hi>Examinant,</hi> and <hi>William Osborn</hi> ſwear they would ſtand to what he had inſtructed them to write, and ſaid, that if they ſhould not the <hi>Lord Treaſurer</hi> would die; and that he would not have come in but for them; hoping they would ſwear, as they had been by the ſaid <hi>Knox</hi> directed<hi>:</hi> This <hi>Examinant</hi> further ſaith, that on <hi>Monday</hi> laſt, the Nurſe belonging to the Goal, came to him, and told him, he ſhould do well to ſtick to Mr. <hi>Knox;</hi> and that a Gentlewoman very well habited came to the Priſon, and bid her tell this <hi>Examinant,</hi> that he ſhould be ſure to ſtick to Mr. <hi>Knox,</hi> and not be daunted, and what monies foever he ſhould require, tho it were a thouſand pounds, he ſhould have it<hi>:</hi> Whereup<g ref="char:EOLhyphen"/>on this <hi>Examinant</hi> asked the Nurſe, who this Gentlewoman was, to whom ſhe replyed, ſhe would not diſcover her name, becauſe ſhe would not have her name brought in queſtion, and further this <hi>Examinant</hi> ſaith not.</p>
+                           <closer>
+                              <signed>John Lane.</signed>
+                           </closer>
+                           <postscript>
+                              <p>Coram</p>
+                              <closer>
+                                 <signed>William Waller.</signed>
+                              </closer>
+                           </postscript>
+                        </div>
+                     </body>
+                  </floatingText>
+               </q>
+               <p>Mr. <hi>Lane</hi> ſeems now to be a Penitent, to have by theſe two laſt recanted his firſt Examination; but we muſt not flatter our ſelves too much with his ſince<g ref="char:EOLhyphen"/>rity? let us have but a little patience, and we ſhall hear him deny, what ever he has now owned, and juſtifie what in his firſt Examination he had juſtified: He has degorg'd himſelf in thoſe laſt Papers, but reſolves to lick up his vo<g ref="char:EOLhyphen"/>mit again, and tho he ſeems to have become a Convert, will ere long prove himſelf an Apoſtate: Whether he thought he ſhould make his Fortune better by telling lyes for his <hi>Great Maſter,</hi> than by telling truth for the <hi>Doctor,</hi> or what other Reaſon may be aſſigned, Certain it is, that <hi>Nov.</hi> 4. 1679 before the Lords of the Council, being ask'd, <hi>Whether he had not made two contrary</hi> Affi<g ref="char:EOLhyphen"/>davits <hi>before the Houſe of Lords?</hi> he acknowledged that <hi>out of fear he did ſo!</hi> but that <hi>the firſt drawn by</hi> Willoughby, <hi>as Mr.</hi> Nevil <hi>had directed was true and the other falſe.</hi>
+               </p>
+               <p>And being fleſht in Wickedneſs, and hardened to his own ruin, he pro<g ref="char:EOLhyphen"/>ceeds to Indict Dr. <hi>Oates</hi> at the Kings Bench Bar, of the horrid and abominable Crimes mentioned in the foregoing Depoſitions, tho the Wiſdom of the Jury upon the ſlightneſs and Inconſiſtency of his Evidence threwit out and brought in an <hi>Ignoramus.</hi>
+               </p>
+               <p>I ſhall now preſent to the Reader a true Coppy of the Examination of <hi>Wil<g ref="char:EOLhyphen"/>liam Osborn,</hi> which opens much of this accurſed deſign againſt Dr. <hi>Oates,</hi> and Mr. <hi>Bedlow,</hi> which tho full of now proved Truth, yet the Examinant it ſeems de<g ref="char:EOLhyphen"/>ſperately reſolved to take his part of ſhame and puniſhment with his beloved Accomplices, and is ſince fled from his own Oath, and the Juſtice due to Perjury.</p>
+               <q>
+                  <floatingText xml:lang="eng">
+                     <body>
+                        <div type="examination">
+                           <head>
+                              <hi>The Examination of</hi> William Osborn <hi>of</hi> Cullumpton <hi>in the County of</hi> Devon, <hi>Vintener taken upon Oath in obedience to an Order of the</hi> Lords Committees, <hi>for examining of Diſcoveries, relating to the late horrid Conſpiracy before Sir</hi>
+                              <pb n="19" facs="tcp:97234:14" rendition="simple:additions"/>
+William Waller <hi>Baronet, and</hi> Edward Wareup, <abbr>Esq</abbr> 
+                              <hi>two of His Majeſties Juſtices of the Peace, this</hi> 29th <hi>day of April,</hi> 1679.</head>
+                           <opener>
+                              <dateline>Middleſex and Weſtminſter.</dateline>
+                           </opener>
+                           <p>This Examinant ſaith, that he ſerved Mr. <hi>Titus Oates</hi> from the tenth of <hi>December</hi> laſt, to the latter end of <hi>March</hi> paſt: That the ſaid Mr. <hi>Oates</hi> paid this <hi>Examinant</hi> his Wages very honeſtly, and his uſage was civil, but he ſome<g ref="char:EOLhyphen"/>times corrected this Examinant for Miſdemeanors, at which this Examinant was offended, but never intended any miſchief to Mr. <hi>Oates</hi> for it<hi>:</hi> And this Examinant farther ſaith, that Mr. <hi>Oates</hi> was a paſſionate man, yet very Reli<g ref="char:EOLhyphen"/>gious, and every morning ſent all his Servants to the Kings Chappel to prayers, only ordering ſome one of them to ſtay at home to dreſs him; and he further ſaith, that he never heard Mr. <hi>Oates</hi> ſay, he had any deſign to accuſe the <hi>Lord Treaſurer,</hi> or any ways to deſtroy him; nor did this Examinant ever hear any diſcourſe between Mr. <hi>Bedlow,</hi> and Mr. <hi>Oates</hi> tending to any Accuſation a<g ref="char:EOLhyphen"/>gainſt the <hi>Lord Treaſurer;</hi> but this Examinant did <gap reason="illegible" resp="#UOM" extent="1 word">
+                                 <desc>〈◊〉</desc>
+                              </gap> the Information that Mr. <hi>Bedlow</hi> gave againſt the Lord Treaſurer, which Mr. <hi>Wiggins,</hi> Mr. <hi>Bedlow</hi> Clerk, ſhewed to this <hi>Examinant,</hi> after the ſame was ſworn publickly. And this Ex<g ref="char:EOLhyphen"/>aminant further ſaith, that he never heard Mr. <hi>Oates</hi> ſay that he had any acc<gap reason="illegible" resp="#UOM" extent="4 letters">
+                                 <desc>••••</desc>
+                              </gap>i<g ref="char:EOLhyphen"/>on to make againſt the <hi>Queen,</hi> or had made any: and the worſt word he ever heard him ſpeak of the <hi>Queen</hi> was, <hi>where is our Dame</hi> going? which was when he ſaw the Guard drawn out in the Yard to attend her Majeſty. And this Examinant further ſaith, that one day at Dinner, when Mr. <hi>Wharton,</hi> Mr. <hi>Oates his Father,</hi> Dr. <hi>Jones</hi> and others were preſent, ſome diſcourſe happen'd between them about Sir <hi>John Robinſon,</hi> and ſometime after the naming of him, Mr. <hi>Oates</hi> did ſay theſe words: <hi>We have not gone to bed ſober theſe four years:</hi> which Mr. <hi>Thurſton,</hi> Mr. <hi>Lane,</hi> and this <hi>Examinant</hi> did think to be <hi>ſpoken of the King,</hi> but this Examinant cannot ſay 'twas ſpoken of His Majeſty, in regard he can give no reaſon why to apply it ſo. And he further ſaith, that he can<g ref="char:EOLhyphen"/>not remember, or call to mind, that he ever heard Mr. <hi>Oates</hi> ſpeak any undecent words of any paſſages between His Majeſty and Mr. <hi>Cheffinch;</hi> and this <hi>Exami<g ref="char:EOLhyphen"/>nant</hi> further ſaith, that he hath layen ſeveral nights with Mr. <hi>Oates,</hi> but never found he afford the leaſt laſcivious or undecent action to this <hi>Examinant,</hi> but did exhort this Examinant from time to time to lead a good courſe of Life, free from doing evil, and often made this <hi>Examinant</hi> to read Sermons, and other Books by him: And this <hi>Examinant</hi> further ſaith, That upon the firſt of <hi>April</hi> laſt, Mr. <hi>John Lane</hi> (now Priſoner with this Examinant in the <hi>Gatehouſe,</hi> and for<g ref="char:EOLhyphen"/>merly fellow ſervant with this <hi>Examinant</hi> to Mr. <hi>Oates)</hi> brought this Exami<g ref="char:EOLhyphen"/>nant to Mr. <hi>Knox</hi> in the <hi>painted Chamber,</hi> who thence went to the Cloyſters in the Abbey with this Examinant, where he diſcourſed about the <hi>Earl of Dan<g ref="char:EOLhyphen"/>by,</hi> and Mr. <hi>Knox</hi> propoſed then to this <hi>Examinant, That if this Examinant would ſwear, That Mr.</hi> Bedlow <hi>came to Mr.</hi> Oates <hi>his Chamber, and there ſaid, that he had been with the</hi> Earl of Danby, <hi>and that the</hi> Earl of Danby <hi>had pro<g ref="char:EOLhyphen"/>miſed him money to go beyond Sea, and that this was a contrived ſtory, between the ſaid Mr.</hi> Oates, <hi>and Mr.</hi> Bedlow, <hi>to take away the Earl of Danby's Life,</hi> that in ſuch caſe, this Examinant ſhould have enough to maintain this Exa<g ref="char:EOLhyphen"/>minant and a Footboy to attend him. And this Examinant ſaith, that he met Mr. <hi>Knox</hi> in the ſame Cloyſters afterwards twice, they two being alone, when he alwayes continued his diſcourſe, and promiſes of what great rewards this <hi>Examinant</hi> ſhould have if he would ſwear that Mr. <hi>Bedlow,</hi> and Mr. <hi>Oates,</hi> in this Examinants hearing contrived the deſign againſt the Lord Treaſurer,
+<pb n="20" facs="tcp:97234:15"/>
+whereby to prove; that the ſaid Mr. <hi>Oates,</hi> and Mr. <hi>Bedlow</hi> in this Examinants hearing ſhould ſay, <hi>Come let us contrive a ſtory to ruine the Lord Treaſurer,</hi> and that Mr. <hi>Bedlow</hi> ſhould within a day or two after come to Mr. <hi>Oates</hi> and ſay, <hi>now I have found out a way to do the Rogues buſineſs for him: I will ſwear he hath offer'd me money to go beyond Sea,</hi> and that Mr. <hi>Oates</hi> ſhould reply, <hi>you could never have thought of a better way.</hi> And this <hi>Examinant</hi> was to ſwear, that all theſe things were ſpoken in this Examinants hearing<hi>:</hi> And upon theſe Conditions Mr. <hi>Knox</hi> promis'd this <hi>Examinant</hi> ſufficient reward. And this Examinant ſaith, that Mr. <hi>Lane</hi> was not to ſwear to theſe things, (as Mr. <hi>Knex</hi> told this Examinant.) And this <hi>Examinant</hi> further ſaith, that He, Mr. <hi>Lane,</hi> and Mr. <hi>Knox,</hi> met ſeveral times together, and when Mr. <hi>Knox</hi> had a<g ref="char:EOLhyphen"/>ny thing to ſay to this <hi>Examinent,</hi> he took him aſide in the Room; and when he had any thing to ſay to Mr. <hi>Lane,</hi> he took him aſide alſo, and ſo diſcourſed them ſeverally: But about this <hi>Tueſday</hi> was a <hi>fortnight,</hi> Mr. <hi>Knox</hi> took a lodg<g ref="char:EOLhyphen"/>ing for this Examinant, Mr. <hi>Lane,</hi> and himſelf, in <hi>White Friers</hi> at the <hi>three Flower de Luces,</hi> where they lodged, till the <hi>Saturday</hi> night following, and in that time Mr. <hi>Knox</hi> dictated to this Examinant, what ſhould be this <hi>Exa<g ref="char:EOLhyphen"/>minants,</hi> and <hi>John Lanes</hi> Depoſitions, and they were written once before at the <hi>one Tun Tavern</hi> in St. <hi>Martins Lane:</hi> And he ſaith, that what Mr. <hi>Lanes</hi> part in his Depoſition about the <hi>Queen,</hi> was to be, was not ſpoken of till the the lodging in <hi>White Friers,</hi> though the other part of the Depoſitions, were dictated by Mr. <hi>Knox</hi> before: And he further ſaith, that the <hi>four Letters,</hi> now ſhewed this Examinant marked (1) (2) (3) (4) are all of this Exa<g ref="char:EOLhyphen"/>minants hand Writing, but were directed by Mr. <hi>Knox,</hi> what they ſhould contain, and were antedated ſeveral days before they were written (by Mr. <hi>Knox</hi> his direction) becauſe it ſhould appear thereby, that this <hi>Examinant,</hi> and Mr. <hi>Lane</hi> invited the ſaid Mr. <hi>Knox</hi> to take their Depoſitions, and to bring them to light as a matter of Conſcience, not of his, Mr. <hi>Knox,</hi> his own ſeeking; and this <hi>Examinant</hi> further ſaith, that the <hi>Informations</hi> mark<g ref="char:EOLhyphen"/>ed (1.) (2.) (3.) (4.) (5.) and the <hi>Memorials</hi> marked (6.) are all of this Examinants hand Writing, and were all dictated <hi>verbatim</hi> to this Exa<g ref="char:EOLhyphen"/>minant, to be the <hi>Informations upon Oath</hi> of this <hi>Examinant,</hi> and the ſaid Mr. <hi>Lane:</hi> And this <hi>Examinant</hi> ſaith, that Mr. <hi>Knox</hi> took this <hi>Examinant,</hi> and Mr. <hi>Lane</hi> in a Coach with him out of Town, with an intent to have them ſworn before Mr. <hi>Cheyney</hi> at <hi>Chelſea,</hi> where this <hi>Examinant,</hi> and Mr. <hi>Lane</hi> continoed in the Coach, while Mr. <hi>Knox</hi> went out, and at his return Mr. <hi>Knox</hi> told us, that Mr. <hi>Cheyney</hi> would not take the Informations, but adviſed they ſhould be taken before <hi>one of the Privy Counſellors,</hi> who ſhould be one of the <hi>Lord Treaſurers friends:</hi> And this Examinant ſaith, that afterwards they removed their Lodgings into an Alley leading into <hi>little Lincolns-Inn-fields</hi> out of <hi>Chancery Lane,</hi> where they ſtaid on <hi>Sunday</hi> was a ſeven night laſt; and on <hi>Monday</hi> following they removed to <hi>Pickadilly,</hi> to the <hi>three Sugar Loaves,</hi> in all which time, and places Mr, <hi>Knox</hi> heartned up this Examinant and Mr. <hi>Lane</hi> to ſtand to the Depoſitions aforeſaid: promiſſing great rewards, and bearing all their expences, affording what meat or wine was deſired, and ſome Treats he beſtowed, which amounted to near twenty ſhillings a time at <hi>Taverns.</hi> And this Examinant ſaith, that Mr. <hi>Lane</hi> being taken, Mr. <hi>Knox</hi> ſent a Hackney-Coach to this Examinants Lodging, at the ſaid <hi>three Sugar Loaves</hi> in <hi>Pickadilly,</hi> with the <hi>Lord Dumblaines</hi> Coachman, and this Examinant went into the Coach and took up Mr. <hi>Knox</hi> at the <hi>Mews,</hi> and then this Examinant was carri<g ref="char:EOLhyphen"/>ed into <hi>White Friers,</hi> to another Lodging, where Mr. <hi>Knox</hi> Lodged with this Examinant one night, being <hi>Friday</hi> night laſt, and then he ſaid that the
+<pb n="21" facs="tcp:97234:15" rendition="simple:additions"/>
+taking of <hi>Mr. Lane</hi> would be for the better, becauſe they ſhould ſooner come to an end; and he heartened up this <hi>Examinant,</hi> and ſaid, that if this Exami<g ref="char:EOLhyphen"/>nant ſhould be taken alſo, a thouſand pounds Bail would be given for this <hi>Ex<g ref="char:EOLhyphen"/>aminants</hi> Liberty. And he further ſaith that <hi>Mr. Knox</hi> gave this <hi>Examinant</hi> one Guinney at one time, by throwing it on the table, that this <hi>Examinant</hi> might take it up; but it was ſo ordered that it ſhould not be given this Ex<g ref="char:EOLhyphen"/>aminant, that he might ſafely ſwear no money was given him; and at the laſt lodging in <hi>Whitefriers Mr. Knox</hi> came, and lay down on a bed by the <hi>Exami<g ref="char:EOLhyphen"/>mant,</hi> and then laid his Arm over this <hi>Examinant,</hi> and let fall ten ſhillings, which this Examinant took up alſo: And <hi>Mr. Lane</hi> told this <hi>Examinant</hi> that <hi>Mr. Knox</hi> had given him one Guinny, in the ſame manner, by throwing it on a Table. And he further ſaith, that Mr. <hi>Knox</hi> told this Examinant, that he ſaw Mr. <hi>Lane</hi> taken, and walked by Mr. <hi>Wiggins</hi> in a Troopers Cloak at the ſame time. And this day this Examinant being in a Room in the <hi>Gate-houſe,</hi> a Note was brought to this Examinant, it being thruſt under the door, wherein was written theſe words, or to the effect following: <hi>You will be ex<g ref="char:EOLhyphen"/>amined this afternoon; we always clubbed, and you paid two ſhillings at the Sugar-Loaf:</hi> Tear this! but no name to it, which this Examinant knows to be of Mr. <hi>Knox</hi> his hand Writing; and further at preſent ſaith not.</p>
+                           <closer>
+                              <signed>William Osborn.</signed>
+                           </closer>
+                           <postscript>
+                              <p>Jurat. die &amp; anno praedict. cor. nobis</p>
+                              <closer>
+                                 <signed>
+                                    <list>
+                                       <item>William VValler.</item>
+                                       <item>Edmond VVarcup.</item>
+                                    </list>
+                                 </signed>
+                              </closer>
+                           </postscript>
+                        </div>
+                     </body>
+                  </floatingText>
+               </q>
+               <p>This full and authentick Confeſſion of <hi>Osborn,</hi> being taken upon Oath by two of his Majeſties Juſtices of the Peace, and that by order of the Commit<g ref="char:EOLhyphen"/>tee of the Houſe of Lords, all men hoped would have ſo diſcouraged the Conſpirators, that the Doctor ſhould have heard no more of them, and the ſecret guilt of their Conſciences would have taught their faces to bluſh at their own villainies, and hide their heads from all Mankind for ever: but Mr. <hi>Knox</hi> was not yet out of heart, that their Cauſe and Spirits might yet be ſupported, eſpecially if he could keep <hi>Lane</hi> firm to the Cauſe, tho <hi>Osborn</hi> had proved a <hi>Renegado.</hi>
+               </p>
+               <p>They were all three then Priſoners in the <hi>Gatehouſe,</hi> tho debarred inter<g ref="char:EOLhyphen"/>courſe with one another, leaſt they ſhould adjuſt their lies the more plauſibly, and confirm each other in their combin'd miſchiefs: <hi>Knox</hi> therefore began to tamper with the under Keeper, <hi>Richard Slightham</hi> to conveigh to <hi>Lane</hi> a Meſ<g ref="char:EOLhyphen"/>ſage, that he would <hi>ſtand faſt to him,</hi> and their Common Intereſt, which be<g ref="char:EOLhyphen"/>cauſe it diſcovers the deſperate obſtinacy of the ſaid <hi>Knox</hi> in purſuing their vil<g ref="char:EOLhyphen"/>lainies to the utmoſt, I ſhall here exemplifie the teſtimony of the ſaid <hi>Slightham</hi> under his own hand.</p>
+               <q>
+                  <floatingText xml:lang="eng">
+                     <body>
+                        <div type="testimony">
+                           <p>
+                              <hi>Richard Slightham</hi> Servant to Mr. <hi>Church,</hi> ſaith, that one <hi>Wedneſday</hi> the thir<g ref="char:EOLhyphen"/>tieth of <hi>April</hi> 1679, that he being then with Mr. <gap reason="blank" extent="1 word">
+                                 <desc> _____ </desc>
+                              </gap> 
+                              <hi>Knox</hi> a priſoner in the <hi>Gate-houſe</hi> under his ſaid Maſters Cuſtody, the ſaid Mr. <hi>Knox</hi> deſired him to go to Mr. <gap reason="blank" extent="1 word">
+                                 <desc> _____ </desc>
+                              </gap> 
+                              <hi>Lane,</hi> than alſo a priſoner there, and tell him that he feared Mr. <gap reason="blank" extent="1 word">
+                                 <desc> _____ </desc>
+                              </gap> 
+                              <hi>Osborne,</hi> then alſo a priſoner there, had betrayed them, (about the matter of <hi>Dr. Titus Oates,</hi> for which they were all priſoners, as this Exami<g ref="char:EOLhyphen"/>nant apprehended) and to ſpeak to him to ſtand faſt to him, and then they ſhould be two againſt one; and further to encourage this <hi>Examinant</hi> he told this <hi>Examinant,</hi> if he would be faithful to him, in carrying Meſſages between
+<pb n="22" facs="tcp:97234:16"/>
+him, and them, he ſhould want for nothing, or to that or the like effect.</p>
+                           <closer>
+                              <signed>Richard Slightham.</signed>
+                           </closer>
+                           <postscript>
+                              <p>This was taken the ſame day by me</p>
+                              <closer>
+                                 <signed>Tho. Smith.</signed>
+                              </closer>
+                           </postscript>
+                        </div>
+                     </body>
+                  </floatingText>
+               </q>
+               <p>Upon the whole matter, we obſerve that Mr. <hi>Knox,</hi> as he could command better Counſel and adviſe then his own head could give him, ſo he has Maſter of a better purſe then his own to bribe, ſuborne, and draw in witneſſes to bear up their Cauſe now declining, he knew there was <hi>a Mint of money in the Tower,</hi> and whilſt that was open he doubted not but money would do won<g ref="char:EOLhyphen"/>ders: <hi>Osborne,</hi> and <hi>Lane,</hi> had already bitten at, and ſwallowed the baite, and he hoped others would be as greedy of the temptation, though here his hopes deceived him, and Mr. <hi>Slightham</hi> proved too honeſt for the temptation.</p>
+               <p>I have nothing more of theſe Grand Conſpirators informations to acquaint the Reader with, ſave ſome notes taken by the <hi>Clerke</hi> attending the Lords Committees for Examinations, which when I have faithfully Copied from the Originalls, I ſhall proceed to the Indictments of <hi>Lane</hi> againſt Dr. <hi>Oates,</hi> and that againſt <hi>Lane and Knox,</hi> on behalfe of the King, upon which the famous Trial of Nov. twenty five 1679 at the Kings-bench bar proceeded.</p>
+               <q>
+                  <floatingText xml:lang="eng">
+                     <body>
+                        <div type="examination">
+                           <head>
+                              <hi>May</hi> the ſecond 1679 <hi>ſome notes taken by the Clerke attending the Lords Com<g ref="char:EOLhyphen"/>mittees for examinations.</hi>
+                           </head>
+                           <p>
+                              <hi>Richard Slightham</hi> (ſworn before the Earl of <hi>Clarendon)</hi> ſaith that the Information made by him before Mr. <hi>Tho. Smyth,</hi> and now ſhewed him, was ſigned by him; and further ſaith that the contents of the ſaid paper are true.</p>
+                           <p>
+                              <hi>John Lane,</hi> being ſhewed his ſecond Depoſition taken before Sir <hi>William Waller,</hi> ſaith, what he hath there ſworn is true, and he will ſtand by it<hi>:</hi> And being asked why he ſwore as he did in his firſt Depoſition before Sir <hi>Wil<g ref="char:EOLhyphen"/>liam Waller,</hi> and Mr. <hi>Warcup,</hi> ſaith he was induced thereto, for that <hi>he, Oſ<g ref="char:EOLhyphen"/>born</hi> and <hi>Knox</hi> had contracted, that whoever diſcovered the Informations they had contrived ſhould be killed: And ſaith, that he hath neither been threatned, nor encouraged to make <hi>this ſecond Depoſition,</hi> but meerly to quiet his own Conſcience.</p>
+                           <p>
+                              <hi>Thomas Knox</hi> denies that he employed <hi>Richard Slightham,</hi> as he hath depoſ<g ref="char:EOLhyphen"/>ed; but owns he ſent <hi>Lane</hi> a Note, as is in his Examination taken before Sir <hi>William Waller,</hi> and Mr. <hi>Warcup:</hi> Saith that <hi>Osborn</hi> came to him in the <hi>painted</hi> Chamber (which was the firſt time he ever ſee him) and told him he had Informations to make, that he would ſave the <hi>Earl of Danby's</hi> life, and which concern'd the <hi>King, and Queen:</hi> And ſhewed him Informations ready Writ in the <hi>Abbey Cloyſters.</hi> Saith, he told <hi>Lane,</hi> and <hi>Osborn,</hi> he was wholly at their mercy, they being two to one, and might deny their Papers, thô under their hands: and ſaith further, that for about a Week whileſt they had mo<g ref="char:EOLhyphen"/>ney, they paid their Clubs, but afterwards, he paid all; and told them they ſhould pay their ſhares; and afterwards lent <hi>Lane</hi> a Guinney, but denies he ever gave <hi>Osborn</hi> any money.</p>
+                           <p>
+                              <hi>William Osborn,</hi> ſworn, ſaith. That he had no diſcourſe in the Painted Cham<g ref="char:EOLhyphen"/>ber with <hi>Thomas Knox,</hi> about the <hi>King, Queen,</hi> or <hi>Earl</hi> of <hi>Danby:</hi> That the ſaid <hi>Knox</hi> brought the ſaid Informations he would have him make, ready Writ; being two particulars concerning Mr. <hi>Oates,</hi> but he did not ſuffer him to keep the Papers. And ſaith further, that <hi>John Lane,</hi> and <hi>Thomas Knox's</hi> brother, were preſent when he Writ the Informations in <hi>Whitefriers;</hi> and ſaith that Mr. <hi>Knox</hi> bid him, if asked, <hi>how he could draw his Informations in ſo good form?</hi> Say,
+<pb n="23" facs="tcp:97234:16" rendition="simple:additions"/>
+That he uſed to draw his Maſters Informations<hi>:</hi> and that <hi>Knox</hi> gave him a Guinney at one time and ten ſhillings at another time.</p>
+                           <p>
+                              <hi>John Knox</hi> ſworn, ſaith, That he was at the <hi>Three Flower de luces</hi> in <hi>White-Friers,</hi> where he ſee <hi>Osborn</hi> write, but did not hear his Brother dictate to <hi>Oſ<g ref="char:EOLhyphen"/>born;</hi> but heard his Brother wiſh Mr. <hi>Osborn</hi> to write nothing but truth; And alſo heard <hi>Osborn</hi> ſay that he had writ nothing but what he would ſwear if he were about to die.</p>
+                        </div>
+                     </body>
+                  </floatingText>
+               </q>
+               <p>By this time the World is ſatisfied of this horrid Conſpiracy to blow up the Popiſh Plot, by blowing up the Teſtimonies of Dr. <hi>Oates</hi> and Mr. <hi>Bedlow.</hi> For <hi>Lane</hi> in his firſt Examination, whilſt he was firme to the Cauſe, acknowledges, that <hi>Knox</hi> took lodgings for him and <hi>Osborn;</hi> that <hi>Knox</hi> lent him a Guiney; upon his ſecond Examination, he ſays, he was pricked in Conſcience, and con<g ref="char:EOLhyphen"/>vinced of his Sin; That <hi>Knox,</hi> the firſt time he met him, adviſed him what he ſhould ſay in relation to the <hi>King, Queen, and Lord Treaſurer;</hi> that <hi>Knox</hi> gave him directions how he ſhould accuſe <hi>Mr. Oates.</hi> That <hi>Knox and Osborn</hi> wrote the Informations, <hi>Knox</hi> being the Dictator of them: That <hi>Knox</hi> made <hi>Lane and Osborne</hi> ſwear ſecreſie: That <hi>Knox</hi> paid the reckoning, and <hi>that it might not be ſaid he gave them any mony,</hi> he would take care it ſhould be con<g ref="char:EOLhyphen"/>veyed to them: That <hi>Knox</hi> at ſeveral times gave them a Guiney a piece by drop<g ref="char:EOLhyphen"/>ping them on the Table: That <hi>Osborn</hi> at <hi>Knox</hi>'s deſire wrote a Letter in ſuch manner as he directed, and dated it of a latter date, which <hi>Knox</hi> cauſed to be directed to himſelf: That <hi>Osborn</hi> at <hi>Knox</hi>'s deſire wrote another Letter, di<g ref="char:EOLhyphen"/>rected to <hi>Knox:</hi> That <hi>Knox</hi> adviſed them both to ſeem to preſs <hi>Knox</hi> to in<g ref="char:EOLhyphen"/>gage in that buſineſs: That they changed Lodgings often: That <hi>Knox</hi> paid for all Lodging and Diet, except two Reckonings of about 1 <hi>s.</hi> 6 <hi>d.</hi> a peice: That <hi>Knox</hi> promiſed <hi>Lane and Osborn</hi> money and preferment for what they ſhould do for the <hi>Lord Treaſurer,</hi> and told them if either of them ſhould make a diſco<g ref="char:EOLhyphen"/>very, he ſhould be diſpatched, and that <hi>Lane</hi> need not doubt but <hi>the Lords in the Tower</hi> would acknowledge their kindneſs</p>
+               <p>That the very day the <hi>Lord Treaſurer</hi> ſurrendred himſelf to the <hi>Black-Rod, Knox</hi> made <hi>him</hi> and <hi>Osborn</hi> ſwear they ſhould ſtand to what he had inſtructed them, and that if they did not, the <hi>Lord Treaſurer</hi> would die, and that he would not have come in but for them.</p>
+               <p>But Mr. <hi>Osborn</hi> in his Examination denies all he had before informed againſt Dr. <hi>Oates</hi> and Mr. <hi>Bedlow,</hi> and ſays that <hi>Lane</hi> brought him to <hi>Knox,</hi> and <hi>Knox</hi> told him what to ſay in relation to the contrivance of Dr. <hi>Oates</hi> and Mr. <hi>Bedlow</hi> againſt the Earl of <hi>Danby.</hi> That there was in Truth no ſuch Contrivance. That he had layen with Dr. <hi>Oates</hi> ſeveral nights, found nothing undecent from him, but that contrariwiſe he uſed to exhort him, to a good life, and made him often read Sermons to him<hi>:</hi> And at another time <hi>Knox</hi> directed him to ſay, that <hi>Mr. Bedlow</hi> ſhould ſay of the <hi>Treaſurer,</hi> I have <hi>now found away to do the Rogues buiſineſs for him;</hi> That <hi>Knox,</hi> always diſcourſed them a part, about the <hi>Earl</hi> of <hi>Danby,</hi> and <hi>Dr. Oates.</hi> He confeſſes the writing the Letters, and informations: That they often ſhifted lodgings; that <hi>Knox</hi> bore their ex<g ref="char:EOLhyphen"/>pences, and promiſed them great rewards: That <hi>Lane</hi> being taken, <hi>Knox,</hi> ſent my <hi>Lord Duneblanes</hi> Coachman with a hackney-Coach for him; that in that Coach they went to <hi>Whitefriers</hi> where <hi>Knox</hi> acquainted him that the taking of <hi>Lane</hi> would expedite the buiſineſs: That <hi>Knox</hi> gave him money. That when <hi>Osborne</hi> was in the <hi>Gate-houſe, Knox</hi> ſent him a Note to this pur<g ref="char:EOLhyphen"/>poſe, <hi>you will be examined this afternoon, we alwayes clubbed, and you paid two ſhillings at the Sugar-leaf.</hi> Tare this! which note, <hi>Knox</hi> has confeſſed,
+<pb n="24" facs="tcp:97234:17"/>
+and upon his Examination acknowledged he threw down a Guinny upon the table, which <hi>Lane</hi> took up; but to colour the buſineſs ſaid it was only lent him, but even this gives juſt ground of ſuſpition to the deſign, and now what will the whole world think and ſay of the Impudence of theſe men; that after all theſe diſappointments and bafflings; after their own confeſſions, re<g ref="char:EOLhyphen"/>tractions, yet that they ſhould be buoyed up to that height of confidence as to make a farther attempt upon the Doctors reputation.</p>
+               <p>And yet this they did, for upon the nineteenth day of this inſtant <hi>November</hi> 1679. <hi>John Lane</hi> had muſtered up ſo much of his declined courages as to pre<g ref="char:EOLhyphen"/>fer an Indictment againſt Dr. <hi>Oates,</hi> for an attempt to commit upon him the hor<g ref="char:EOLhyphen"/>rid and Abominable ſin of Sodomy. Which Indictment being brought to the Grand Jury, the Incoherence, and ſlightneſs of his evidencence cauſed them to return an <hi>Ignoramus.</hi>
+               </p>
+               <p>Dr. <hi>Oates</hi> not willing to ſuffer his Good name, and the Credit of his Teſti<g ref="char:EOLhyphen"/>mony to depend upon the throwing out of that bill, brought an Indictment for the King againſt the ſaid <hi>Knox</hi> and <hi>Lane,</hi> (for <hi>Osborne</hi> had withdrawn himſelf) which came to be openly tryed at the Kings-bench bar, <hi>November</hi> twenty five 1679. An account whereof the whole Nation does expect, and wherein ſatisfaction ſhall be now given.</p>
+               <q>
+                  <floatingText xml:lang="eng">
+                     <body>
+                        <div type="indictment">
+                           <head>Novem. 25 1679. <hi>Dominus Rex verſus Thomam Knox &amp; Johanem Lane.</hi>
+                           </head>
+                           <opener>For the King.</opener>
+                           <p>The Indictment ſets forth that whereas <hi>Edward Coleman, William Ire<g ref="char:EOLhyphen"/>land, and John Groves,</hi> and other falſe Traytors to the Jury unknown <hi>24th.</hi> of <hi>April,</hi> in the thirtieth year of the King that now is, at the Pariſh of Saint <hi>Margarets Weſtminſter,</hi> did trayterouſly conſpire, conſult, and agree amongſt themſelves to kill and deſtroy the King, and to raiſe War againſt his Majeſty within this Kingdome, and to change the Religion by Law eſtabliſhed, to the Superſtition of the Church of <hi>Rome,</hi> for which Treaſons, Trayterous Con<g ref="char:EOLhyphen"/>ſpiracies, Conſultations, and Agreements, the ſaid <hi>Coleman, Ireland, and Groves</hi> were afterwards attainded, and put to death for the ſame.</p>
+                           <p>And whereas <hi>William Earl of Powis, William Viſcount Stafford, John Lord Bellaſis, Henry Lord Arundel of Wardour, William Lord Petre,</hi> and <hi>Sir Henry Tichbourn Baronet</hi> the thirtieth of <hi>Nov.</hi> laſt at <hi>Weſtminſter,</hi> were accuſed of the Treaſons aforeſaid, and thereupon according to due forme of law were com<g ref="char:EOLhyphen"/>mitted to the Tower of <hi>London,</hi> to be there ſafely kept to anſwer the ſaid Treaſons, whereof the ſaid <hi>Earl of Powis,</hi> and the <hi>other four</hi> Lords were by the Commons in Parliament aſſembled, Impeached.</p>
+                           <p>And whereas <hi>Thomas Earl of Danby</hi> afterwards, that is to ſay the thirtieth of <hi>Nov.</hi> laſt, at <hi>Weſtminſter</hi> was in lawful manner accuſed of certain Treaſons and other miſdemeaners, and thereupon according to due forme of law was committed to the Tower, there to be ſafe kept to anſwer the Treaſons, and miſ<g ref="char:EOLhyphen"/>demeanours aforeſaid, of which ſaid Treaſon and miſdemeanours, the ſaid <hi>Earl of Danby</hi> is Impeached by the Commons in Parliament aſſembled.</p>
+                           <p>And that the Defendants knowing the ſaid Lords to be accuſed of the Trea<g ref="char:EOLhyphen"/>ſon, and miſdemeanours aforeſaid; and the ſaid defendants being diabolically affected towards the King, their natural Lord, and contriving, and endeavouring with all their might, to diſturb, hinder, and ſtifle the diſcovery of the ſaid Treaſons by the ſaid <hi>Earl of Powis,</hi> Viſcount <hi>Stafford,</hi> Lord <hi>Belliſis, Henry</hi> Lord <hi>Arundel, Wil<g ref="char:EOLhyphen"/>liam</hi> Lord <hi>Petre,</hi> ſuppoſed to be committed, as aforeſaid; and as much as in them lay to elude the due Courſe of law, and retard the proſecution of juſtice againſt the ſaid <hi>five Lords,</hi> Sir <hi>Henry Tichbourn,</hi> and <hi>Thomas</hi> Earl of <hi>Danby.</hi>
+                           </p>
+                           <p>They the ſaid Defendants the thirtieth of <hi>April</hi> laſt paſt at the Pariſh
+<pb n="33" facs="tcp:97234:17" rendition="simple:additions"/>
+aforeſaid in the County aforeſaid, falſely, maliciouſly, and unlawfully amongſt themſelves did conſult and agree to ſcandalize <hi>Titus Oates Clerk,</hi> and <hi>William Bedlow Gent.</hi> Who had given informations of the Treaſons aforeſaid, and whom the ſaid Defendants knew to have given Information of the Treaſons afore<g ref="char:EOLhyphen"/>ſaid againſt the <hi>Earl</hi> of <hi>Powis,</hi> Viſcount <hi>Stafford,</hi> Lords <hi>Bellaſis, Arundel,</hi> and <hi>Petre,</hi> and to repreſent them upon the Trial of the ſaid five <hi>Lords,</hi> to be per<g ref="char:EOLhyphen"/>ſons of evil Converſation, and Witneſſes not to be believed.</p>
+                           <p>And that the Defendant <hi>Knox</hi> afterwards, that is to ſay, the <hi>30th.</hi> of <hi>April</hi> laſt, at <hi>Weſtminſter</hi> aforeſaid in the Names, and with the conſent and agree<g ref="char:EOLhyphen"/>ment of the Defendant <hi>Lane,</hi> and <hi>William Oſborne</hi> to villifie the Information of the ſaid <hi>Titus Oates,</hi> and <hi>William Bedlow</hi> to be given for the King againſt the ſaid five Lords laſt mentioned: falſly, maliciouſly, ſubtilly and adviſedly, did write and cauſe to be written four Letters, and thoſe Letters ſo written, falſly <hi>&amp;c.</hi> did direct, and cauſe to be delivered to himſelf, the ſaid Defendant <hi>Knox;</hi> by which ſaid Letters, it was falſly, craftily, and deceitfully declared that the ſaid <hi>Lane,</hi> and <hi>Oſborne,</hi> were very much troubled in their Conſcien<g ref="char:EOLhyphen"/>ces by reaſon of certain matters, which they well knew, and did conceal con<g ref="char:EOLhyphen"/>cerning the unjuſt contrivances of the ſaid <hi>Titus Oates,</hi> and <hi>William Bedlow,</hi> in accuſing the ſaid <hi>Earl</hi> of <hi>Danby</hi> to be guilty of the Treaſons and other Miſde<g ref="char:EOLhyphen"/>meanors aforeſaid.</p>
+                           <p>And that the ſaid <hi>Titus Oates</hi> was a perſon of a wicked, and vicious Life, and did make an aſſault upon the ſaid <hi>John Lane,</hi> and did endeavour to commit with him the ſaid <hi>Lane,</hi> Sodomy.</p>
+                           <p>And further, that the Defendant <hi>Knox</hi> the ſooner, and effectually to per<g ref="char:EOLhyphen"/>ſwade the ſaid <hi>Lane,</hi> and <hi>Oſborne</hi> falſly to accuſe the ſaid <hi>Titus Oates,</hi> and <hi>William Bedlow,</hi> that they the ſaid <hi>Titus Oates,</hi> and <hi>William Bedlow</hi> had unjuſt<g ref="char:EOLhyphen"/>ly, contrary to all Truth, accuſed the ſaid <hi>E.</hi> of <hi>Danby</hi> of the Treaſons, and other Miſdemeanours aforeſaid, and ſo to affirm againſt the Kings Evidence, againſt the Trial to be had of the ſaid <hi>Earl</hi> of <hi>Danby</hi> for the Treaſons, and Miſdemea<g ref="char:EOLhyphen"/>nors aforeſaid, afterwards the <hi>30th.</hi> of <hi>April</hi> laſt, at <hi>Weſtminſter,</hi> falſly, ad<g ref="char:EOLhyphen"/>viſedly, corruptly, and againſt the duty of his Allegiance, did give to the ſaid <hi>Lane,</hi> and <hi>Oſborne</hi> divers great ſumms of Money.</p>
+                           <p>And did promiſe to the ſaid <hi>Lane,</hi> and <hi>Oſborne</hi> within a certain time by the ſaid Defendant <hi>Knox</hi> propoſed, that they the ſaid <hi>Lane,</hi> and <hi>Osborne</hi> ſhould have, and receive other great ſumms, and other rewards for the ſame, to the great delay, obſtruction, and ſuppreſſion of Juſtice, <hi>&amp;c.</hi>
+                           </p>
+                        </div>
+                     </body>
+                  </floatingText>
+               </q>
+               <p>To this the <hi>Defendants</hi> pleaded <hi>not Guilty.</hi>
+               </p>
+               <list>
+                  <head>The Names of the Jury Empanelled and Sworn, were as followeth.</head>
+                  <item>Sr. <hi>John Kirke Knight.</hi>
+                  </item>
+                  <item>
+                     <hi>Thomas Harriot Eſquire.</hi>
+                  </item>
+                  <item>
+                     <hi>Henry Johnſon Eſquire.</hi>
+                  </item>
+                  <item>
+                     <hi>Simon Middleton Eſquire.</hi>
+                  </item>
+                  <item>
+                     <hi>Hugh Squire Eſquire.</hi>
+                  </item>
+                  <item>
+                     <hi>Francis Derrington Eſquire.</hi>
+                  </item>
+                  <item>
+                     <hi>John Roberts Eſquire.</hi>
+                  </item>
+                  <item>
+                     <hi>Rainſford Waterhouſe Eſquire.</hi>
+                  </item>
+                  <item>
+                     <hi>Thomas Earsby Eſquire.</hi>
+                  </item>
+                  <item>
+                     <hi>Joſeph Ratoliffe Gent.</hi>
+                  </item>
+                  <item>
+                     <hi>James Supple Gent.</hi>
+                  </item>
+                  <item>
+                     <hi>Richard Cooper Gent.</hi>
+                  </item>
+               </list>
+               <p>The Names of the Counſel learned in the Law, who pleaded on behalf of the King againſt the Defendants. Mr. <hi>Attorney General:</hi> Mr, <hi>Sollicitor Ge<g ref="char:EOLhyphen"/>neral,</hi> Mr. <hi>Sergeant Maynard:</hi> The <hi>Recorder of London.</hi> Sr. <hi>Francis Winning<g ref="char:EOLhyphen"/>ton,</hi> Mr. <hi>William Williams,</hi> Mr. <hi>Thomas Smyth,</hi> Mr. <hi>John Trenchard.</hi>
+               </p>
+               <p>The Names of the Counſel aſſigned to the Defendant <hi>Lane:</hi> Mr. <hi>Holt,</hi> Mr. <hi>Darnel.</hi>
+               </p>
+               <p>The Names of the Counſel entertained for the Defendant <hi>Knox.</hi> Mr. <hi>With<g ref="char:EOLhyphen"/>ins,</hi> Steward of <hi>Weſtminſter Court,</hi> Mr. <hi>Soroggs,</hi> Son to the Lord chief Juſtice, Mr. <hi>Saunders.</hi>
+               </p>
+               <pb n="34" facs="tcp:97234:18"/>
+               <list>
+                  <head>
+                     <hi>The Names of the Witneſſes ready to ſwear to the particular Clauſes hereafter mentioned</hi> [only it is to be obſerved that the Cauſe being exceeding clear by the Teſtimony of ſome few of the more conſiderable Witneſſes, the reſt were not called.]</head>
+                  <item>To prove the Attainder of <hi>Coleman, Ireland,</hi> and <hi>Groves,</hi> See the <hi>Records.</hi>
+                  </item>
+                  <item>To prove that they were put to death<hi>: Mr. Tiſſer.</hi>
+                  </item>
+                  <item>To prove the Commitments of the Lords and Sr. <hi>Henry Tichburn: Mr. Clare. Mr. Reynolds.</hi>
+                  </item>
+                  <item>To prove the ſaid five <hi>Lords</hi> Impeached<hi>: Mr. Clare.</hi>
+                  </item>
+                  <item>To prove the Accuſation, and the Commitment of the <hi>Earl of Danby: Mr. Reynolds.</hi>
+                  </item>
+                  <item>To prove the Empeachment of the <hi>Earl</hi> of <hi>Danby: Mr. Goodenough.</hi>
+                  </item>
+                  <item>That <hi>Lane</hi> had a deſign <hi>at his first coming to Dr. Oates,</hi> in <hi>Nov.</hi> 1678, to accuſe him, which his Father diſcovered by ſome expreſſions to <hi>Mr. Radford,</hi> to the ſame effect that he was afterwards accuſed<hi>: Mr. Radford.</hi>
+                  </item>
+                  <item>That <hi>Lane</hi> deſired after this to be re-admitted in the <hi>Doctors</hi> ſervice<hi>: Mr. Allen.</hi>
+                  </item>
+                  <item>That <hi>Lane</hi> declared whilſt he was with <hi>Doctor Oates,</hi> that he hoped to get one thouſand pound in a ſhort time<hi>: Sam. Oates.</hi>
+                  </item>
+                  <item>That <hi>Lane</hi> deſired <hi>Mr. Reex</hi> to find out <hi>Sr. William Waller,</hi> ſo that he might confeſs the truth of the whole Contrivance to him, being pricked in Conſcience for the falſe Oaths he had taken<hi>: Robert Reex.</hi>
+                  </item>
+                  <item>To prove that <hi>Lane</hi> and <hi>Osborn</hi> confeſſed that they were ſuborned by <hi>Knox,</hi> to ſwear falſly againſt <hi>Doctor Oates</hi> before <hi>Sr. William Waller</hi> and <hi>Mr. Warcupp,</hi> and that he had given them Money to do the ſame; and this they confeſt before a Committee of the Lords. Theſe Examinations proved by <hi>Sr. William Waller. Mr. Warcupp, Mr. Relfe, Mr. Snow.</hi>
+                  </item>
+                  <item>To prove that <hi>Lane,</hi> and <hi>Osborne</hi> were made to Swear by <hi>Knox</hi> to <hi>ſtand faſt to what he had inſtructed them to write,</hi> and that the <hi>Lord Treaſurer</hi> would not have ſurrendred himſelf but for them<hi>: Sr. William Waller, Lanes</hi> Con<g ref="char:EOLhyphen"/>feſſion <hi>3d. May,</hi> 1679, and <hi>Lanes 3d. Examination.</hi>
+                  </item>
+                  <item>To prove the Letters <hi>Confeſſed by Osborne: Mr. Juſtice Warcupp.</hi>
+                  </item>
+               </list>
+               <list>
+                  <head>As to <hi>Knox</hi> his Endeavours to take off Mr. <hi>Oates,</hi> and <hi>Bedlows</hi> Teſtimony.</head>
+                  <item>To prove that <hi>Knox</hi> endeavoured to ſuborn <hi>Henry Wiggins,</hi> offering him a reward to ſwear againſt <hi>Captain Bedlow: Henry Wiggins, Mr. Wiggin's</hi> Mother.</item>
+                  <item>That <hi>Mr. Wiggins</hi> acquainted <hi>Mr. Palmer</hi> a Yeoman of the Guard with theſe Propoſals preſently after they were made<hi>: Mr. Palmer.</hi>
+                  </item>
+                  <item>To prove that <hi>Knox</hi> made ſeveral Propoſals to one <hi>Thurſton,</hi> late Servant to <hi>Doctor Oates,</hi> and promiſed to be very kind to him, if he could find any thing to ſwear againſt his Maſter<hi>: John Thurſtone.</hi>
+                  </item>
+                  <item>To prove that <hi>Knox, Lane,</hi> and <hi>Osborn</hi> being impriſon'd in the <hi>Gate-Houſe,</hi> for this contrivance <hi>Knox</hi> offered <hi>Slightham</hi> the Gaolers man a good reward, to let him hold Correſpondence with <hi>Lane</hi> by Letters, and deſired him to go to <hi>Lane,</hi> and tell him he feared <hi>Osborne</hi> had betrayed them about the matter of <hi>Doctor Oates,</hi> and deſired him to ſpeak to him <hi>to ſtand faſt to him, and then they ſhould be two againſt one: Richard Slightham.</hi>
+                  </item>
+                  <item>To prove that <hi>Knox, Lane,</hi> and <hi>Osborne</hi> went to <hi>Juſtice Dewy,</hi> and <hi>Knox</hi> told him he came from my <hi>Lord Latimer,</hi> who <hi>preſented his Service to him,</hi> and that <hi>Knox</hi> was adviſed to come to him by <hi>that Lord</hi> to take an Information a<g ref="char:EOLhyphen"/>gainſt <hi>Doctor Oates: Mr. Dewy.</hi>
+                  </item>
+                  <item>That they went alſo to <hi>Juſtice Cheyney</hi> at <hi>Chelſea:</hi> Mr. <hi>Cheyney.</hi>
+                  </item>
+                  <item>That <hi>Knox</hi> confeſſed he lent <hi>Lane</hi> a Guinny, and that <hi>Oſborn,</hi> and <hi>Lane</hi>
+                     <pb facs="tcp:97234:18" rendition="simple:additions"/>
+confeſſed that <hi>Knox</hi> aſſured <gap reason="illegible" resp="#UOM" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> 
+                     <hi>
+                        <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>ever want Money nor Prefer<g ref="char:EOLhyphen"/>ment:</hi> Sr. <hi>William Waller,</hi> Mr. <hi>W<gap reason="illegible" resp="#UOM" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>c<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>pp.</hi>
+                  </item>
+                  <item>To prove that <hi>Knox</hi> confeſſed, to Sr. <hi>William Waller,</hi> and Mr. <hi>Warcupp,</hi> that whilſt <hi>he,</hi> and Mr. <hi>Oſborn</hi> were Priſoners, he the ſaid <hi>Knox</hi> ſent a Note to <hi>Oſborn</hi> to inform him<hi>:</hi> that he would be examined the afternoon, and with theſe words, <hi>We always clubbed, and you paid two ſhillings at the Sugar-loaf; Tear this:</hi> Sr. <hi>William Waller,</hi> Mr. <hi>Warcup.</hi>
+                  </item>
+                  <item>That <hi>Lane</hi> hath been kept this laſt Summer at the houſe of the <hi>Earl of Pow<g ref="char:EOLhyphen"/>is,</hi> that he had ten ſhillings <hi>per week</hi> allowed him to give Evidence againſt Dr. <hi>Oates.</hi> That <hi>Knox</hi> was to have thirty or fourty Pounds, to carry on the Buſineſs; and that <hi>Oſborn, Knox,</hi> and <hi>Lane</hi> were to be rewarded by the <hi>Lords in the Tower</hi> for their Evidence againſt <hi>Doctor Oates: Mr. Dangerfield. Mrs. Blake, Mrs. Edwards.</hi>
+                  </item>
+                  <item>That <hi>Lane</hi> waited with a great Club to knock down <hi>Mr. Reex,</hi> at <hi>Mrs. Maynards</hi> door, that <hi>Knox</hi> would have had the ſaid <hi>Mrs. Maynard</hi> ſwear that <hi>Mr. Reex</hi> offer'd her one hundred Pounds to ſwear in <hi>Doctor Oates</hi> his buſineſs<hi>: Mrs. Maynard, Mrs. Tyrrel.</hi>
+                  </item>
+                  <item>If <hi>George Neal,</hi> one <hi>Bowring,</hi> and <hi>George Deeplow</hi> be produced as Witneſſes for the Defendants.</item>
+                  <item>To prove that <hi>Neal</hi> hath made application ſeveral times to be re-admitted to <hi>Doctor Oate</hi>'s Service ſince he was turned away<hi>: Sr. Thomas Stringer, Mr. Weal, Robert Gyde, Mrs. Brooks, Henry Lord, Mr. Smith.</hi>
+                  </item>
+                  <item>That <hi>Bowring</hi> was turn'd out of <hi>Doctor Oates</hi> his Service for keeping com<g ref="char:EOLhyphen"/>pany with <hi>Knox, Lane,</hi> and with Papiſts<hi>: Mr. Saunders, Mr. Money, Mr. Allen, Samuel Oates junior.</hi>
+                  </item>
+                  <item>That <hi>Bowring</hi> hath made application to be re-admitted to <hi>Doctor Oates</hi> his Service; <hi>Mr. Smith, Mr. Robert Gyde.</hi>
+                  </item>
+                  <item>That <hi>Deeplow</hi> about a week before <hi>Doctor Oates</hi> turn'd him away, declared that <hi>he wondred at the wickedneſs</hi> of <hi>Lane,</hi> and <hi>Oſborn</hi> in accuſing his Maſter, Seeing he appear'd to him a very upright, and honeſt Man: <hi>Moſes Gwyn, Mr. Samuel Oates, George Gregory.</hi>
+                  </item>
+                  <item>That <hi>Deeplow</hi> thanked <hi>Doctor Tong</hi> for helping him into <hi>Doctor Oates</hi> his Service: <hi>Doctor Tong.</hi>
+                  </item>
+                  <item>If <hi>Lane</hi>'s Mother, or Siſter be produced as Witneſſes.</item>
+                  <item>To prove that <hi>Lane</hi>'s Mother, ſaid <hi>her Son was drawn in by Plays, and Treats, &amp;c.</hi> to accuſe <hi>Doctor Oates,</hi> and that <hi>Knox</hi> offer'd her Son Money in the <hi>Gatehouſe</hi> to ſtand to his firſt Information<hi>: Margery Walker.</hi>
+                  </item>
+                  <item>To prove, that <hi>Mary Lane</hi> ſaid; Now my Lord <hi>Treaſurer,</hi> muſt loſe his Head for my Brother has confeſſed All<hi>: Mrs. Sterling.</hi>
+                  </item>
+                  <item>That <hi>Knox</hi> was with <hi>Mrs. Wiggins</hi> on fryday laſt to perſwade her not to come in againſt him, and then ſaid, <hi>ſhe ſhould have a Reward: Mrs. Wiggins.</hi>
+                  </item>
+               </list>
+               <p>And thus at length I have conducted the Reader through this dark and intri<g ref="char:EOLhyphen"/>cate Labyrinth of Confederated Roguery, wherein ſome will queſtion, whether there was more of the <hi>Devil</hi> in the <hi>Contrivance,</hi> then <hi>of God</hi> in the <hi>Diſcovery</hi> and <hi>Defeating</hi> of the Deſign: but we have ſeen Divine Wiſdom and Mercy triumph<g ref="char:EOLhyphen"/>ing over humane and helliſh Malice, and Subtlety: I have ſtudiouſly forborn to give the Reader the trouble of <hi>the Minutes of the Tryal;</hi> the judicious are better ſatisfied with a brief <hi>Synopſis</hi> of the Cauſe, than with the tedious Speech<g ref="char:EOLhyphen"/>es of Witneſſes, which are frequently interrupted with Queſtions, and ſome of them perhaps not very material or pertinent.</p>
+               <p>Let it ſuffice, that the Evidence was ſo clear againſt the Defendants <hi>Knox,</hi> and <hi>Lane,</hi> that the Jury without any delay found <hi>for the King againſt them;</hi> to the very great ſatisfaction of the Court, and Company, which was exceed<g ref="char:EOLhyphen"/>ing great: Many Noble Men, Gentlemen, and eminent Citizens coming with great expectations of the iſſue of this Tryal, which was managed with that
+<pb n="36" facs="tcp:97234:19"/>
+Juſtice, Impartiality, indifferency between <hi>the King, and the Defendants,</hi> that ſome have been heard to ſay, <hi>they could never believe a <gap reason="illegible" resp="#UOM" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> before, but now they were abundantly ſatisfied.</hi>
+               </p>
+               <p>
+                  <hi>Knox,</hi> and <hi>Lane,</hi> were immediately taken into Cuſtody, and are now in Pri<g ref="char:EOLhyphen"/>ſon, a<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ending the Sentence of the Law, which though it hath not hitherto been pronounced, yet they muſt know, that the higher Juſtice lifts up its Hand, the heavier it will ſtrike; and compenſate the ſlowneſs with the ſeve<g ref="char:EOLhyphen"/>rity of the Puniſhment; which being bounded by the Law, can never be too great for ſuch <hi>Monſtrous Malefactors: Osborne</hi> indeed fled from Juſtice, which argues more Modeſty then theſe others can pretend to, which chuſe rather to <hi>outface Juſtice</hi> then ſeem to <hi>fear it;</hi> and are more Ambitious of a Martyrdom, that may regiſter them in the Roman Calendar, though their Names never appear in the Roll of Chriſtian Worthies. Yet let us not deſpair of their Re<g ref="char:EOLhyphen"/>pentance, having Inſtances before our Eys, that as there are none ſo vile but the Catholicks will uſe them for <hi>Inſtruments,</hi> ſo there are none ſo obdurate but the Divine Grace can make them <hi>Converts.</hi>
+               </p>
+               <pb facs="tcp:97234:19"/>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
